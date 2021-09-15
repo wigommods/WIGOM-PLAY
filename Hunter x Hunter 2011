@@ -1,19 +1,9 @@
 
 #EXTM3U
-#################################################################################################################################
-####  LISTA CRIADA POR WIGOM MOD'S / SE COPIAR OU ESPELHAR DÊ OS DEVIDOS CRÉDITOS NÃO SEJA UM BABACA / LISTA CRIADA POR WIGOM MOD'S ###
-#################################################################################################################################
+#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="Hunter x Hunter 2011" , Hunter x Hunter 2011
+http://0.0.0.0
 
-#EXTMEU
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3dKfWSL", ATUALIZADO 14/09/21
-https://demandafrica-oando.amagi.tv/
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/telegram-logo-52EACC2D94-seeklogo.com.png", TELEGRAM @WIGOMMODS
-https://dwstream5-lh.akamaihd.net/
-
-#################################################################################################################################
-####  LISTA CRIADA POR WIGOM MOD'S / SE COPIAR OU ESPELHAR DÊ OS DEVIDOS CRÉDITOS NÃO SEJA UM BABACA / LISTA CRIADA POR WIGOM MOD'S ###
-#################################################################################################################################
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4jA40N280wb9NT7yjtFdcJND5aq.jpg" group-title="ANIMES", Hunter x Hunter 2011 [FHD]
+#EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/original/4jA40N280wb9NT7yjtFdcJND5aq.jpg" group-title="Hunter x Hunter 2011" , EPISODIO 01
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/DTHNTEP01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4jA40N280wb9NT7yjtFdcJND5aq.jpg" group-title="ANIMES", Hunter x Hunter 2011 [HD]
 https://videos.animesgratisbr.com/pubfolder/animes/HunterxHunter/HunterXHunter01.mp4
