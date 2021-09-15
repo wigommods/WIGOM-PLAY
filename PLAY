@@ -290,13 +290,13 @@ http://45.181.121.154:8000/play/a015
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/4839/brand.png" group-title="CANAIS DE TV", E! Entertainment AMERICA LATINA [HQ]
 http://45.181.121.154:8000/play/a024
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="CANAIS DE TV", ESPN 1 AMERICA LATINA [HQ]
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/98a8d8b2-9715-4d47-86a2-295ebdff5cb7/1x1/300_20200602202355.jpg" group-title="CANAIS DE TV", ESPN 1 AMERICA LATINA [HQ]
 http://45.181.121.154:8000/play/a016
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="CANAIS DE TV", ESPN 2 AMERICA LATINA [HQ]
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/98a8d8b2-9715-4d47-86a2-295ebdff5cb7/1x1/300_20200602202355.jpg" group-title="CANAIS DE TV", ESPN 2 AMERICA LATINA [HQ]
 http://45.181.121.154:8000/play/a017
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="CANAIS DE TV", ESPN 3 AMERICA LATINA [HQ]
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/98a8d8b2-9715-4d47-86a2-295ebdff5cb7/1x1/300_20200602202355.jpg" group-title="CANAIS DE TV", ESPN 3 AMERICA LATINA [HQ]
 http://45.181.121.154:8000/play/a018
 
 #EXTINF:-1 tvg-logo="https://criadoresid.com/wp-content/uploads/2021/04/MTV-300x300.jpg" group-title="CANAIS DE TV", MTV AMERICA LATINA [HQ]
