@@ -276,5 +276,38 @@ https://videos.animesgratisbr.com/pubfolder/animes/HunterxHunter/HunterXHunter91
 #EXTINF:-1 tvg-logo="https://images.static-bluray.com/products/20/13968_1_front.jpg" group-title="Hunter x Hunter 1999", 92 DUBLADO [HD]
 https://videos.animesgratisbr.com/pubfolder/animes/HunterxHunter/HunterXHunter92.mp4
 
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/mmatorch.com/desktop/wp-content/uploads/2015/10/Fox-Sports-1-logo-300x250.jpg?fit=300%2C250&ssl=1" group-title="CANAIS DE TV", FOX SPORTS 1 AMERICA LATINA [FHD]
+http://45.181.121.154:8000/play/a013
+
+#EXTINF:-1 tvg-logo="https://exorbeo.com/wp-content/uploads/2013/07/fox-sports-2-hd-na-sky.jpg" group-title="CANAIS DE TV", FOX SPORTS 2 AMERICA LATINA [HQ]
+http://45.181.121.154:8000/play/a014
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fb/f1/3b/fbf13be9a4347264b95e04b66c0d0b56.png" group-title="CANAIS DE TV", FOX SPORTS 3 AMERICA LATINA [HD]
+http://45.181.121.154:8000/play/a015
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/4839/brand.png" group-title="CANAIS DE TV", E! Entertainment AMERICA LATINA [HQ]
+http://45.181.121.154:8000/play/a024
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="CANAIS DE TV", ESPN 1 AMERICA LATINA [HQ]
+http://45.181.121.154:8000/play/a016
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="CANAIS DE TV", ESPN 2 AMERICA LATINA [HQ]
+http://45.181.121.154:8000/play/a017
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d1eb2_a4a40256e443404597d9454fa89921a5~mv2.jpg/v1/fill/w_300,h_300,al_c,q_90/file.jpg" group-title="CANAIS DE TV", ESPN 3 AMERICA LATINA [HQ]
+http://45.181.121.154:8000/play/a018
+
+#EXTINF:-1 tvg-logo="https://criadoresid.com/wp-content/uploads/2021/04/MTV-300x300.jpg" group-title="CANAIS DE TV", MTV AMERICA LATINA [HQ]
+http://45.181.121.154:8000/play/a022
+
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/5/4/z/mtv-80.jpg" group-title="CANAIS DE TV", MTV 80s [HQ]
+http://62.176.112.19:8008/play/a0bi
+
+#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/08/images-1-1-2.jpg" group-title="CANAIS DE TV", MTV Biggest Pop [FHD]
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/038/160_160_1/6106e87f613b6.png" group-title="CANAIS DE TV", MTV Nonstop Nostalgia [FHD]
+http://62.176.112.19:8008/play/a0bj
 
