@@ -356,6 +356,9 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="Canais Star",STAR CHANNEL HD
 http://solutionplay.xyz:8080/techruthes/87903691/6439
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR LIFE CHANNEL HD" tvg-logo="https://cdn-tigo-gt.tigocloud.net/img/guia-tv/star-life.png?v=1.16" group-title="Canais Star",STAR LIFE CHANNEL HD
+http://dns.blackouthd.xyz:80/tvblogue0159/super437089/173121
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR HITS CHANNEL HD" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-star-hits1.jpg" group-title="Canais Star",STAR HITS CHANNEL HD
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="https://1.bp.blogspot.com/-7mzrwenGEL0/XmQY1Lhuh0I/AAAAAAAACSM/KO7bzqORN4MkRz4IYz5nmmvsvpMa7AWEQCK4BGAYYCw/s400/SONY.png" group-title="Canais Filmes e Series ",SONY HD
 http://solutionplay.xyz:8080/techruthes/87903691/6463
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://1.bp.blogspot.com/-YBl9_nxYYEg/Xk70g8w-e4I/AAAAAAAACGw/Dka4nvxveQomHzF23ECe1TTjbLrHmV7HQCLcBGAsYHQ/s1600/space.png" group-title="Canais Filmes e Series ",SPACE HD
