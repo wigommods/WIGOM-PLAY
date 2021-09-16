@@ -348,6 +348,8 @@ http://solutionplay.xyz:8080/techruthes/87903691/6034
 http://solutionplay.xyz:8080/techruthes/87903691/6331
 #EXTINF:-1 tvg-id="" tvg-name="PrimePlay Music (EM FASE DE TESTES)" tvg-logo="https://i.imgur.com/bCLtAv7.png" group-title="Canais Variedades",PrimePlay Music (EM FASE DE TESTES)
 http://solutionplay.xyz:8080/techruthes/87903691/13873
+#EXTINF:-1 tvg-id="Sbt.com.br" tvg-name="SBT HD" tvg-logo="https://seeklogo.com/images/S/sbt-logo-3D30D31294-seeklogo.com.png" group-title="Canais Variedades",SBT HD
+https://cdn-scc-10192.ciclano.io:1443/scc-10192/scc-10192/chunklist_w70379980.m3u8
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="Canais Star",STAR CHANNEL HD
 http://solutionplay.xyz:8080/techruthes/87903691/6439
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="https://1.bp.blogspot.com/-7mzrwenGEL0/XmQY1Lhuh0I/AAAAAAAACSM/KO7bzqORN4MkRz4IYz5nmmvsvpMa7AWEQCK4BGAYYCw/s400/SONY.png" group-title="Canais Filmes e Series ",SONY HD
