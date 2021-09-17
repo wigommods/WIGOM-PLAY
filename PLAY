@@ -484,11 +484,6 @@ https://pitou.goyabu.com/hunter-x-hunter-2011/147.mp4
 #EXTINF:-1 tvg-id="hunterxhunter.com" tvg-name="Hunter x Hunter (2011) [LEG][SD]" tvg-logo="https://wallpaperaccess.com/full/6233319.jpg" group-title="Hunter x Hunter (2011) [LEG][SD]",Hunter x Hunter (2011)[SD] – Episódio 148
 https://pitou.goyabu.com/hunter-x-hunter-2011/148.mp4
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="r7.com" tvg-name="A FAZENDA 13 PRINCIPAL[FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png" group-title="A FAZENDA 13 PRINCIPAL[FHD]",A FAZENDA 13 PRINCIPAL[FHD]
-http://51.222.46.117:80/33221100/33221100/765850
-
 
 #EXTM3U
 
@@ -552,6 +547,22 @@ https://www.googleapis.com/drive/v3/files/17CR48g9ruPvEZSo3hjfjdRIjgRQ6H4aO?alt=
 https://www.googleapis.com/drive/v3/files/17CR48g9ruPvEZSo3hjfjdRIjgRQ6H4aO?alt=media&key=AIzaSyB6Ae1W6isCybK1ZaB-NkMr8cYBz04b36c
 #EXTINF:-1 tvg-id="hunterxhunter.com" tvg-name="Hunter x Hunter (2011) [LEG][FHD]" tvg-logo="https://wallpaperaccess.com/full/6233319.jpg" group-title="Hunter x Hunter (2011) [LEG][FHD]",Hunter x Hunter (2011)[FHD] – Episódio 030
 https://www.googleapis.com/drive/v3/files/1YVMK4LueyMPhwXSq2gWNVE7dnbp8xoTw?alt=media&key=AIzaSyB6Ae1W6isCybK1ZaB-NkMr8cYBz04b36c
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="JOVEM PAN [Salvador-BA]" tvg-logo="https://br.radio.net/images/broadcasts/84/af/118115/1/c300.png" group-title="RÀDIOS",JOVEM PAN [Salvador-BA]
+https://r15.ciclano.io:14351/stream
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="JOVEM PAN [Manaus-AM]" tvg-logo="https://br.radio.net/images/broadcasts/84/af/118115/1/c300.png" group-title="RÀDIOS",JOVEM PAN [Manaus-AM]
+https://shout25.crossradio.com.br:18022/1
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Mix FM [São Paulo]" tvg-logo="https://semeiapropaganda.com.br/wp-content/uploads/2019/11/mixfm.png" group-title="RÀDIOS",Rádio Mix FM [São Paulo]
+https://16603.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="VIFM RADIO" tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/192/192/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICwy62dgwgMCxIOU3RhdGlvblByb2ZpbGUYgICw686a4QsMogEEemVubw/image/%3Fresize=192x192&v=1" group-title="RÀDIOS",VIFM RADIO
+http://node-15.zeno.fm:80/1kf9qv92238uv
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="r7.com" tvg-name="A FAZENDA 13 PRINCIPAL[FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png" group-title="A FAZENDA 13 PRINCIPAL[FHD]",A FAZENDA 13 PRINCIPAL[FHD]
+http://51.222.46.117:80/33221100/33221100/765850
 
 
 
