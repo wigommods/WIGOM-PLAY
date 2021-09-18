@@ -550,13 +550,13 @@ https://www.googleapis.com/drive/v3/files/1YVMK4LueyMPhwXSq2gWNVE7dnbp8xoTw?alt=
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="JOVEM PAN [Salvador-BA]" tvg-logo="https://br.radio.net/images/broadcasts/84/af/118115/1/c300.png" group-title="RÀDIOS",JOVEM PAN [Salvador-BA]
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="JOVEM PAN [Salvador-BA]" tvg-logo="https://www.radio.net/images/broadcasts/28/50/118117/1/c300.png" group-title="RÀDIOS",JOVEM PAN [Salvador-BA]
 https://r15.ciclano.io:14351/stream
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="JOVEM PAN [Manaus-AM]" tvg-logo="https://br.radio.net/images/broadcasts/84/af/118115/1/c300.png" group-title="RÀDIOS",JOVEM PAN [Manaus-AM]
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="JOVEM PAN [Manaus-AM]" tvg-logo="https://www.radio.net/images/broadcasts/28/50/118117/1/c300.png" group-title="RÀDIOS",JOVEM PAN [Manaus-AM]
 https://shout25.crossradio.com.br:18022/1
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Mix FM [São Paulo]" tvg-logo="https://semeiapropaganda.com.br/wp-content/uploads/2019/11/mixfm.png" group-title="RÀDIOS",Rádio Mix FM [São Paulo]
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Mix FM [São Paulo]" tvg-logo="https://cdn-profiles.tunein.com/s98647/images/logod.png?t=636326" group-title="RÀDIOS",Rádio Mix FM [São Paulo]
 https://16603.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="VIFM RADIO" tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/192/192/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICwy62dgwgMCxIOU3RhdGlvblByb2ZpbGUYgICw686a4QsMogEEemVubw/image/%3Fresize=192x192&v=1" group-title="RÀDIOS",VIFM RADIO
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="VIFM RADIO" tvg-logo="https://imgproxy.zenomedia.com/insecure/fit/500/500/ce/0/plain/https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICwy62dgwgMCxIOU3RhdGlvblByb2ZpbGUYgICw686a4QsMogEEemVubw/image/%3Fresize=500x500&v=1" group-title="RÀDIOS",VIFM RADIO
 http://node-15.zeno.fm:80/1kf9qv92238uv
 
 #EXTM3U
