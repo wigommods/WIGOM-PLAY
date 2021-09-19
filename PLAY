@@ -500,7 +500,7 @@ https://hls-01-regions.emgsound.ru/11_msk/96/playlist.m3u8
 https://hls-01-europaplus-top40.emgsound.ru/21/96/playlist.m3u8
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="Europa Plus [Top40]" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1503086732.jpg" group-title="RÁDIOS",Europa Plus [Top40]
 http://eptop128.streamr.ru
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="TOPradio [Belgium]" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4b31f55a-f5a4-4e7c-b3b6-e13a099b52d1-profile_image-300x300.png" group-title="RÀDIOS",TOPradio [Belgium]
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="TOPradio [Belgium]" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4b31f55a-f5a4-4e7c-b3b6-e13a099b52d1-profile_image-300x300.png" group-title="RÁDIOS",TOPradio [Belgium]
 http://str.topradio.be:80/topradio.aac
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name=".113FM" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1594538899.jpg" group-title="RÁDIOS",113FM
 http://113fm-edge1.cdnstream.com:80/1736_128
@@ -522,12 +522,10 @@ https://paineldj.com.br:20028/stream
 https://s46.maxcast.com.br:8026/live
 
 #EXTM3U
-
 #EXTINF:-1 tvg-id="r7.com" tvg-name="Premiere [3]" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere [3]
 https://netfla.live/live/8/chunks.m3u8
 
 #EXTM3U
-
 #EXTINF:-1 tvg-id="r7.com" tvg-name="A FAZENDA 13 PRINCIPAL[FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png" group-title="A FAZENDA 13 PRINCIPAL[FHD]",A FAZENDA 13 PRINCIPAL[FHD]
 http://51.222.46.117:80/33221100/33221100/765850
 
