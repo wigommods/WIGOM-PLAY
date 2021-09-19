@@ -527,7 +527,8 @@ https://netfla.live/live/8/chunks.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="r7.com" tvg-name="Fox Sports Brasil [1][SD]" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",Fox Sports Brasil [1][SD]
 https://content-asae1-up-2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1632092949&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&nielsen=1&iph=e0710bd362ba9779ca4620065284a91101cf9c9b9faccad022a66c87e77981c6&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=e14ce9a617504257b14eb9b17d618e2d1c5ffb2bc54a1da5ddbdeeb0f154101e&pbs=608964dceccb486fb4e727aa3fadf868
-
+#EXTINF:-1 tvg-id="r7.com" tvg-name="Fox Sports Brasil [2][SD]" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",Fox Sports Brasil [2][SD]
+https://content-asae1-up-1.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/e.m3u8?exp=1632094262&ct=c&cid=079d58338d294099914fc3e879c8e3ac&expand=drmOff&nielsen=1&iph=32391217b0d08a65be26591d16a0747f095bc550ba4ea446c27301f4e5bb87b1&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=1ac1555ca24b709bcff4a7bcd826d4bae4bc8bf7381bae1e25578030ce302225&pbs=c433a7969e6f47f9a3eb837491689871
 #EXTM3U
 #EXTINF:-1 tvg-id="r7.com" tvg-name="A FAZENDA 13 PRINCIPAL[FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png" group-title="A FAZENDA 13 PRINCIPAL[FHD]",A FAZENDA 13 PRINCIPAL[FHD]
 http://51.222.46.117:80/33221100/33221100/765850
