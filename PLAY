@@ -486,34 +486,40 @@ https://pitou.goyabu.com/hunter-x-hunter-2011/148.mp4
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="JOVEM PAN" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logos-player/jpfm.jpg?v2" group-title="RÀDIOS",JOVEM PAN
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="JOVEM PAN" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logos-player/jpfm.jpg?v2" group-title="RÁDIOS",JOVEM PAN
 https://18223.live.streamtheworld.com/JP_SP_FMAAC.aac
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Mix FM [São Paulo]" tvg-logo="https://cdn-profiles.tunein.com/s265950/images/logod.png?t=160811" group-title="RÀDIOS",Rádio Mix FM [São Paulo]
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Mix FM [São Paulo]" tvg-logo="https://cdn-profiles.tunein.com/s265950/images/logod.png?t=160811" group-title="RÁDIOS",Rádio Mix FM [São Paulo]
 https://17843.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Versão Interativa [VIFM][128kps]" tvg-logo="https://scontent.fpll4-1.fna.fbcdn.net/v/t39.30808-6/242315844_178172251117385_5029309863055135012_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=SWd1rDaglpgAX9vXwbj&_nc_ht=scontent.fpll4-1.fna&oh=74a0639c4f98321bbb30343fbf39af7b&oe=614C69B9" group-title="RÀDIOS",Rádio Versão Interativa [VIFM][128kps]
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Versão Interativa [VIFM][128kps]" tvg-logo="https://scontent.fpll4-1.fna.fbcdn.net/v/t39.30808-6/242315844_178172251117385_5029309863055135012_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=SWd1rDaglpgAX9vXwbj&_nc_ht=scontent.fpll4-1.fna&oh=74a0639c4f98321bbb30343fbf39af7b&oe=614C69B9" group-title="RÁDIOS",Rádio Versão Interativa [VIFM][128kps]
 http://node-15.zeno.fm:80/1kf9qv92238uv
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Kiss FM [92.5]" tvg-logo="https://br.radio.net/images/broadcasts/e7/66/120057/1/c300.png" group-title="RÀDIOS",KISS FM [92.5]
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Kiss FM 92.5" tvg-logo="https://img.radios.com.br/radio/lg/radio13561_1560259438.png" group-title="RÁDIOS",Rádio Kiss FM 92.5
 https://24383.live.streamtheworld.com/RADIO_KISSFMAAC.aac
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Europa Plus [Russia]" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1503086732.jpg" group-title="RÀDIOS",Europa Plus [Russia][128kps]
-http://ep128.streamr.ru
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Europa Plus [Russia]" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1503086732.jpg" group-title="RÀDIOS",Europa Plus [Russia][256kps]
-http://ep256.streamr.ru
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Europa Plus [Top40]" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1503086732.jpg" group-title="RÀDIOS",Europa Plus [Top40]
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Europa Plus [Russia]" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1503086732.jpg" group-title="RÁDIOS",Europa Plus [Russia]
+https://hls-01-regions.emgsound.ru/11_msk/96/playlist.m3u8
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Europa Plus [TOP40]" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1503086732.jpg" group-title="RÁDIOS",Europa Plus [TOP40]
+https://hls-01-europaplus-top40.emgsound.ru/21/96/playlist.m3u8
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Europa Plus [Top40]" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1503086732.jpg" group-title="RÁDIOS",Europa Plus [Top40]
 http://eptop128.streamr.ru
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="TOPradio [Belgium]" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4b31f55a-f5a4-4e7c-b3b6-e13a099b52d1-profile_image-300x300.png" group-title="RÀDIOS",TOPradio [Belgium]
 http://str.topradio.be:80/topradio.aac
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name=".113FM" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1594538899.jpg" group-title="RÀDIOS",113FM
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name=".113FM" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1594538899.jpg" group-title="RÁDIOS",113FM
 http://113fm-edge1.cdnstream.com:80/1736_128
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name=".113FM [Pop2K-USA]" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1594538899.jpg" group-title="RÀDIOS",.113FM [Pop2K-USA]
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name=".113FM [Pop2K-USA]" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1594538899.jpg" group-title="RÁDIOS",.113FM [Pop2K-USA]
 http://113fm-edge1.cdnstream.com:80/1737_128
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="HUNTER.FM [POP]" tvg-logo="https://cdn-profiles.tunein.com/s268377/images/logod.jpg?t=159706" group-title="RÀDIOS",HUNTER.FM [POP]
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="HUNTER.FM [POP]" tvg-logo="https://cdn-profiles.tunein.com/s268377/images/logod.jpg?t=159706" group-title="RÁDIOS",HUNTER.FM [POP]
 https://live.hunter.fm/pop_high
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Neko-Network Radio: Vision Anime & Japanese Music" tvg-logo="http://anime-radio.neko-network.net/images/logo.png" group-title="RÀDIOS",Neko-Network Radio: Vision Anime & Japanese Music
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Neko-Network Radio: Vision Anime & Japanese Music" tvg-logo="http://anime-radio.neko-network.net/images/logo.png" group-title="RÁDIOS",Neko-Network Radio: Vision Anime & Japanese Music
 http://listen.nekonetwork.moe:8400/anime.mp3
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Neko-Network Radio: Vision Anime & Japanese Music [Opção 2]" tvg-logo="http://anime-radio.neko-network.net/images/logo.png" group-title="RÀDIOS",Neko-Network Radio: Vision Anime & Japanese Music [Opção 2]
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Neko-Network Radio: Vision Anime & Japanese Music [Opção 2]" tvg-logo="http://anime-radio.neko-network.net/images/logo.png" group-title="RÁDIOS",Neko-Network Radio: Vision Anime & Japanese Music [Opção 2]
 http://hitomi.nekonetwork.moe:8400/anime.mp3
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Jovem Pop FM" tvg-logo="https://br.radio.net/images/broadcasts/27/e6/34288/1/c300.png" group-title="RÀDIOS",Jovem Pop FM
-https://stream.radiojovempop.com/top40/stream_external
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Jovem Pop - Top40/Hits" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/e31afb34e178206a6c504dd0e8ddbbb4.jpg" group-title="RÁDIOS",Rádio Jovem Pop - Top40/Hits
+https://stream.radiojovempop.com/top40/stream_hd
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="89 FM A Rádio Rock" tvg-logo="https://tudoradio.com/img/uploads/radios/radio_89aradiorocksaopaulo891.png" group-title="RÁDIOS",89 FM A Rádio Rock
+https://20833.live.streamtheworld.com/RADIO_89FMAAC.aac
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Hits 99.7 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio80135_1538050223.png" group-title="RÁDIOS",Rádio Hits 99.7 FM
+https://paineldj.com.br:20028/stream
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Estação Pop" tvg-logo="https://img.radios.com.br/radio/lg/radio29801_1439401712.jpg" group-title="RÁDIOS",Rádio Estação Pop
+https://s46.maxcast.com.br:8026/live
 
 #EXTM3U
 
