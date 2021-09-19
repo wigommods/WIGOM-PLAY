@@ -485,7 +485,6 @@ https://pitou.goyabu.com/hunter-x-hunter-2011/147.mp4
 https://pitou.goyabu.com/hunter-x-hunter-2011/148.mp4
 
 #EXTM3U
-
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="JOVEM PAN" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logos-player/jpfm.jpg?v2" group-title="RÁDIOS",JOVEM PAN
 https://18223.live.streamtheworld.com/JP_SP_FMAAC.aac
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Mix FM [São Paulo]" tvg-logo="https://cdn-profiles.tunein.com/s265950/images/logod.png?t=160811" group-title="RÁDIOS",Rádio Mix FM [São Paulo]
@@ -524,6 +523,10 @@ https://s46.maxcast.com.br:8026/live
 #EXTM3U
 #EXTINF:-1 tvg-id="r7.com" tvg-name="Premiere [3]" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere [3]
 https://netfla.live/live/8/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="r7.com" tvg-name="Fox Sports Brasil [1][SD]" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",Fox Sports Brasil [1][SD]
+https://content-asae1-up-2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1632092949&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&nielsen=1&iph=e0710bd362ba9779ca4620065284a91101cf9c9b9faccad022a66c87e77981c6&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=e14ce9a617504257b14eb9b17d618e2d1c5ffb2bc54a1da5ddbdeeb0f154101e&pbs=608964dceccb486fb4e727aa3fadf868
 
 #EXTM3U
 #EXTINF:-1 tvg-id="r7.com" tvg-name="A FAZENDA 13 PRINCIPAL[FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png" group-title="A FAZENDA 13 PRINCIPAL[FHD]",A FAZENDA 13 PRINCIPAL[FHD]
