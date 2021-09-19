@@ -511,7 +511,7 @@ https://live.hunter.fm/pop_high
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="Neko-Network Radio: Vision Anime & Japanese Music" tvg-logo="http://anime-radio.neko-network.net/images/logo.png" group-title="RÀDIOS",Neko-Network Radio: Vision Anime & Japanese Music
 http://listen.nekonetwork.moe:8400/anime.mp3
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="Neko-Network Radio: Vision Anime & Japanese Music [Opção 2]" tvg-logo="http://anime-radio.neko-network.net/images/logo.png" group-title="RÀDIOS",Neko-Network Radio: Vision Anime & Japanese Music [Opção 2]
-http://listen.nekonetwork.moe:8400/anime.mp3
+http://hitomi.nekonetwork.moe:8400/anime.mp3
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="Jovem Pop FM" tvg-logo="https://br.radio.net/images/broadcasts/27/e6/34288/1/c300.png" group-title="RÀDIOS",Jovem Pop FM
 https://stream.radiojovempop.com/top40/stream_external
 
