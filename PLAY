@@ -722,8 +722,12 @@ https://cdn-scc-10192.ciclano.io:1443/scc-10192/scc-10192/chunklist_w70379980.m3
 https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="Canais Variedades",ANIME TV [opção 2]
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="Canais Star",STAR CHANNEL HD
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="CANAIS STAR CHANNEL",STAR CHANNEL HD
 http://solutionplay.xyz:8080/techruthes/87903691/6439
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR HITS HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="CANAIS STAR CHANNEL",STAR HITS HD
+http://200.194.238.229:8000/udp/225.1.1.2:1234
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR HITS 2 HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="CANAIS STAR CHANNEL",STAR HITS 2 HD
+http://200.194.238.229:8000/udp/225.1.1.3:1234
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="https://1.bp.blogspot.com/-7mzrwenGEL0/XmQY1Lhuh0I/AAAAAAAACSM/KO7bzqORN4MkRz4IYz5nmmvsvpMa7AWEQCK4BGAYYCw/s400/SONY.png" group-title="Canais Filmes e Series ",SONY HD
 http://solutionplay.xyz:8080/techruthes/87903691/6463
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://1.bp.blogspot.com/-YBl9_nxYYEg/Xk70g8w-e4I/AAAAAAAACGw/Dka4nvxveQomHzF23ECe1TTjbLrHmV7HQCLcBGAsYHQ/s1600/space.png" group-title="Canais Filmes e Series ",SPACE HD
