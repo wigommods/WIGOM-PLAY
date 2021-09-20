@@ -495,8 +495,6 @@ http://node-15.zeno.fm:80/1kf9qv92238uv
 https://24383.live.streamtheworld.com/RADIO_KISSFMAAC.aac
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="Europa Plus [Russia]" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1503086732.jpg" group-title="RÁDIOS",Europa Plus [Russia]
 https://hls-01-regions.emgsound.ru/11_msk/96/playlist.m3u8
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Europa Plus [TOP40]" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1503086732.jpg" group-title="RÁDIOS",Europa Plus [TOP40]
-https://hls-01-europaplus-top40.emgsound.ru/21/96/playlist.m3u8
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="Europa Plus [Top40]" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1503086732.jpg" group-title="RÁDIOS",Europa Plus [Top40]
 http://eptop128.streamr.ru
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="TOPradio [Belgium]" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4b31f55a-f5a4-4e7c-b3b6-e13a099b52d1-profile_image-300x300.png" group-title="RÁDIOS",TOPradio [Belgium]
