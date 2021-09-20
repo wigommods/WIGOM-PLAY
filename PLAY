@@ -537,6 +537,10 @@ http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
 
 #EXTM3U
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="FOX LIFE FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="CANAIS FOX/STAR CHANNEL",FOX LIFE FHD
+http://185.236.229.21:9981/play/a05r
+
+#EXTM3U
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Sportv | FHD" tvg-logo="https://p16-amd-va.tiktokcdn.com/tos-maliva-avt-0068/7c7382f95830c05411bd4d03f314f43d~c5_300x300.jpeg?x-expires=1629387500&x-signature=rJl8B36KNGwOCb9Q5707GnDRNp6%3D" group-title="CANAIS Sportv",Sportv | FHD
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19600
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Sportv 2 | FHD" tvg-logo="https://p16-amd-va.tiktokcdn.com/tos-maliva-avt-0068/7c7382f95830c05411bd4d03f314f43d~c5_300x300.jpeg?x-expires=1629387500&x-signature=rJl8B36KNGwOCb9Q5707GnDRNp6%3D" group-title="CANAIS Sportv",Sportv 2 | FHD
