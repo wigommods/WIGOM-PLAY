@@ -545,12 +545,6 @@ http://185.236.229.21:9981/play/a066
 http://185.236.229.21:9981/play/a039
 
 #EXTM3U
-#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="AXN MOVIES HD" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/7dbe6018-97d5-4f66-9557-36b55aba8949.png" group-title="CANAIS AXN CHANNEL",AXN MOVIES HD
-http://185.236.229.21:9981/play/a05l
-#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="AXN WHITE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX9OqMvUkEHgvPAFD3lqEa66IGVM3Om2_A1rcKtzUH6pw7edz5j-sQC7L0G1im1kRi3nc&usqp=CAU" group-title="CANAIS AXN CHANNEL",AXN WHITE HD
-http://185.236.229.21:9981/play/a05p
-
-#EXTM3U
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Sportv | FHD" tvg-logo="https://p16-amd-va.tiktokcdn.com/tos-maliva-avt-0068/7c7382f95830c05411bd4d03f314f43d~c5_300x300.jpeg?x-expires=1629387500&x-signature=rJl8B36KNGwOCb9Q5707GnDRNp6%3D" group-title="CANAIS Sportv",Sportv | FHD
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19600
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Sportv 2 | FHD" tvg-logo="https://p16-amd-va.tiktokcdn.com/tos-maliva-avt-0068/7c7382f95830c05411bd4d03f314f43d~c5_300x300.jpeg?x-expires=1629387500&x-signature=rJl8B36KNGwOCb9Q5707GnDRNp6%3D" group-title="CANAIS Sportv",Sportv 2 | FHD
