@@ -535,6 +535,8 @@ http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38408
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38407
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Premiere 6 FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 6 FHD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Premiere 7 FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 7 FHD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
 
 #EXTM3U
 #EXTINF:-1 tvg-id="r7.com" tvg-name="Fox Sports Brasil [1][SD]" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",Fox Sports Brasil [1][SD]
