@@ -539,6 +539,12 @@ http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
 
 #EXTM3U
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="TNT HD" tvg-logo="https://www.radiobras.net/wp-content/uploads/2021/07/TNT-300x300.png" group-title="CANAIS TNT Brasil",TNT HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36934
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="TNT Séries HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png" group-title="CANAIS TNT Brasil",TNT Séries HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36934
+
+#EXTM3U
 #EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 2 FHD" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 2 FHD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38398
 #EXTM3U
