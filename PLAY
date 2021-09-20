@@ -521,19 +521,19 @@ https://paineldj.com.br:20028/stream
 https://s46.maxcast.com.br:8026/live
 
 #EXTM3U
-#EXTINF:-1 tvg-id="r7.com" tvg-name="Premiere Clubes FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere Clubes FHD
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Premiere Clubes FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere Clubes FHD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38411
-#EXTINF:-1 tvg-id="r7.com" tvg-name="Premiere [2][HQ]" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 2 HQ
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Premiere 2 HQ" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 2 HQ
 https://netfla.live/live/8/chunks.m3u8
-#EXTINF:-1 tvg-id="r7.com" tvg-name="Premiere [2][opção 2]" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 2 FHD
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Premiere 2 FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 2 FHD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38410
-#EXTINF:-1 tvg-id="r7.com" tvg-name="Premiere 3 FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 3 FHD
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Premiere 3 FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 3 FHD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38409
-#EXTINF:-1 tvg-id="r7.com" tvg-name="Premiere 4 FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 4 FHD
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Premiere 4 FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 4 FHD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38408
-#EXTINF:-1 tvg-id="r7.com" tvg-name="Premiere 5 FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 5 FHD
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Premiere 5 FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 5 FHD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38407
-#EXTINF:-1 tvg-id="r7.com" tvg-name="Premiere 6 FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 6 FHD
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Premiere 6 FHD" tvg-logo="https://multiplaytelecom.com.br/wp-content/uploads/canais/-13.png" group-title="CANAIS PREMIERE",Premiere 6 FHD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
 
 #EXTM3U
