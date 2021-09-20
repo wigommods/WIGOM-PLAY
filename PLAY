@@ -585,6 +585,26 @@ http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19609
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36933
 
 #EXTM3U
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="HBO | FHD" tvg-logo="https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-HBO-ANDROID-TV-BOX-APP-1.png" group-title="CANAIS HBO",HBO | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19616
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="HBO 2 | FHD" tvg-logo="https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-HBO-ANDROID-TV-BOX-APP-1.png" group-title="CANAIS HBO",HBO 2 | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19617
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="HBO Plus | FHD" tvg-logo="https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-HBO-ANDROID-TV-BOX-APP-1.png" group-title="CANAIS HBO",HBO Plus | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19618
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="HBO Family | FHD" tvg-logo="https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-HBO-ANDROID-TV-BOX-APP-1.png" group-title="CANAIS HBO",HBO Family | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19619
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="HBO Signature | FHD" tvg-logo="https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-HBO-ANDROID-TV-BOX-APP-1.png" group-title="CANAIS HBO",HBO Signature | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19620
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="HBO Mundi | FHD" tvg-logo="https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-HBO-ANDROID-TV-BOX-APP-1.png" group-title="CANAIS HBO",HBO Mundi | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19621
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="HBO Xtreme | FHD" tvg-logo="https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-HBO-ANDROID-TV-BOX-APP-1.png" group-title="CANAIS HBO",HBO Xtreme | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19622
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="HBO Pop | FHD" tvg-logo="https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-HBO-ANDROID-TV-BOX-APP-1.png" group-title="CANAIS HBO",HBO Pop | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19623
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="HBO Xtreme | FHD" tvg-logo="https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-HBO-ANDROID-TV-BOX-APP-1.png" group-title="CANAIS HBO",HBO Xtreme | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19622
+
+#EXTM3U
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Telecine Premium | FHD" tvg-logo="https://d3a0dcqzwu0eh0.cloudfront.net/images/300_d3nvqtz58s3wyp41monh.jpg" group-title="CANAIS Telecine",Telecine Premium | FHD
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19610
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Telecine Action | FHD" tvg-logo="https://d3a0dcqzwu0eh0.cloudfront.net/images/300_d3nvqtz58s3wyp41monh.jpg" group-title="CANAIS Telecine",Telecine Action | FHD
