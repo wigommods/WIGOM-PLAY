@@ -543,6 +543,28 @@ http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13525
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13444
 #EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Ben 10 | 24H" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU1MGQ1YTgtZTdkYi00ODI3LWFjMzItYmZkN2IxMmM0M2M4XkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_.jpg" group-title="CANAIS 24H",Ben 10 | 24H
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13445
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Bob Esponja | 24H" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/4/45/Poster-Bob-Esponja.jpg/revision/latest?cb=20210312181253&path-prefix=pt-br" group-title="CANAIS 24H",Bob Esponja | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13446
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Breaking Bad | 24H" tvg-logo="https://img.elo7.com.br/product/original/26A857B/big-poster-serie-breaking-bad-lo02-tamanho-90x60-cm-poster.jpg" group-title="CANAIS 24H",Breaking Bad | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13447
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Coragem O Cão Covarde | 24H" tvg-logo="https://i.pinimg.com/originals/cc/9c/3d/cc9c3d11f36ad68d1e1e9c325bb69ebf.jpg" group-title="CANAIS 24H",Coragem O Cão Covarde | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13448
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Caverna do Dragão | 24H" tvg-logo="https://oldflix-images-cdn.b-cdn.net/images/cover/5906763f66b25f137443cdd2.jpg" group-title="CANAIS 24H",Caverna do Dragão | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13449
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Digimon | 24H" tvg-logo="https://i.ebayimg.com/images/g/ewEAAOSwzWpZjPt3/s-l300.jpg" group-title="CANAIS 24H",Digimon | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13456
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Dragon Ball | 24H" tvg-logo="https://i.pinimg.com/originals/3e/26/16/3e2616a4f7f59d1ac63afeb8495871c4.jpg" group-title="CANAIS 24H",Dragon Ball | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13459
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Dragon Ball Super | 24H" tvg-logo="https://br.web.img3.acsta.net/r_1280_720/pictures/16/10/20/21/11/025941.jpg" group-title="CANAIS 24H",Dragon Ball Super | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13460
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Eu a Patroa e as Crianças | 24H" tvg-logo="https://media.fstatic.com/SyqLDcr9Tn-xLJqkpy8aNBgn9RU=/290x478/smart/media/movies/covers/2014/09/eu-a-patroa-e-as-criancas-1a-temporada_t15203_2.jpg" group-title="CANAIS 24H",Eu a Patroa e as Crianças | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13462
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="He-Man | 24H" tvg-logo="https://m.media-amazon.com/images/I/51UyZVgeqaL._AC_SY450_.jpg" group-title="CANAIS 24H",He-Man | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13466
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="HOMEM ARANHA | 24H" tvg-logo="https://tode800.com/capas/ultimate-homem-aranha-1-temporada-download-torrent-2012-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="CANAIS 24H",HOMEM ARANHA | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13469
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Mr.Ben | 24H" tvg-logo="https://ae01.alicdn.com/kf/HTB132XPf4TI8KJjSspiq6zM4FXaf/Mr-bean-temporada-um-cartaz-com-dia-mestre-vintage-retro-pintura-em-tela-cl-ssico-diy.jpg" group-title="CANAIS 24H",Mr.Ben | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13481
 
 #EXTM3U
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="TNT HD" tvg-logo="https://lh3.googleusercontent.com/proxy/a1dfhw_6XiqiFTNJSpT5BAN6CAy4xcBDMUuXNdWUVulQn89odCwWR7YyCMvUVKa-u6paWJKWUSGB3wa3X99_Lsr8t13vS10V063GwlIPzhAdBfQE_g" group-title="CANAIS TNT Brasil",TNT HD
