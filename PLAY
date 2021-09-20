@@ -547,6 +547,10 @@ http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19602
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19608
 
 #EXTM3U
+#EXTINF:-1 tvg-id="PowerRangersBeastMorphers.com/wigom" tvg-name="Power Rangers - Beast Morphers" tvg-logo="https://www.apkdownloadhunt.com/wp-content/uploads/2021/02/Vanced-Manager-APK-Download.jpg" group-title="YOUTUBE On Demand",Power Rangers - Beast Morphers
+https://www.youtube.com/watch?v=FwMa7GCgTXY
+
+#EXTM3U
 #EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Super Choque | 24H" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/0/0e/Static.shock.jpg/revision/latest?cb=20210529154515&path-prefix=pt-br" group-title="CANAIS 24H",Super Choque | 24H
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13525
 #EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="As Meninas Superpoderosas | 24H" tvg-logo="https://br.web.img2.acsta.net/pictures/15/05/20/17/18/336796.jpg" group-title="CANAIS 24H",As Meninas Superpoderosas | 24H
