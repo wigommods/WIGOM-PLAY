@@ -549,6 +549,8 @@ http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19608
 #EXTM3U
 #EXTINF:-1 tvg-id="PowerRangersBeastMorphers.com/wigom" tvg-name="Power Rangers - Beast Morphers" tvg-logo="https://media.fstatic.com/3Ukj9DJFp07F4EOMZG4TVWgOkQg=/290x478/smart/media/movies/covers/2020/05/Power_Rangers_Beast_Morphers_Poster_big.jpg" group-title="YOUTUBE On Demand",Power Rangers - Beast Morphers
 https://www.youtube.com/watch?v=FwMa7GCgTXY
+#EXTINF:-1 tvg-id="PowerRangersBeastMorphers.com/wigom" tvg-name="Bob Esponja" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/4/45/Poster-Bob-Esponja.jpg/revision/latest?cb=20210312181253&path-prefix=pt-br" group-title="YOUTUBE On Demand",Bob Esponja
+https://www.youtube.com/watch?v=b6sPQ8x3kDs
 
 #EXTM3U
 #EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Super Choque | 24H" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/0/0e/Static.shock.jpg/revision/latest?cb=20210529154515&path-prefix=pt-br" group-title="CANAIS 24H",Super Choque | 24H
