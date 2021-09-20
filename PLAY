@@ -547,7 +547,7 @@ http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19602
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19608
 
 #EXTM3U
-#EXTINF:-1 tvg-id="PowerRangersBeastMorphers.com/wigom" tvg-name="Power Rangers - Beast Morphers" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Zg0t9CLPL.jpg" group-title="YOUTUBE On Demand",Power Rangers - Beast Morphers
+#EXTINF:-1 tvg-id="PowerRangersBeastMorphers.com/wigom" tvg-name="Power Rangers - Beast Morphers" tvg-logo="https://media.fstatic.com/3Ukj9DJFp07F4EOMZG4TVWgOkQg=/290x478/smart/media/movies/covers/2020/05/Power_Rangers_Beast_Morphers_Poster_big.jpg" group-title="YOUTUBE On Demand",Power Rangers - Beast Morphers
 https://www.youtube.com/watch?v=FwMa7GCgTXY
 
 #EXTM3U
