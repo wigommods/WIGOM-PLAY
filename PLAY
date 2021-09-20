@@ -555,6 +555,10 @@ https://www.youtube.com/watch?v=b6sPQ8x3kDs
 https://www.youtube.com/watch?v=hpXd-M9ZDCE
 
 #EXTM3U
+#EXTINF:-1 tvg-id="PowerRangersBeastMorphers.com/wigom" tvg-name="2000's Hits" tvg-logo="https://images.squarespace-cdn.com/content/v1/54e14a80e4b08791c730e0a5/1425284335858-73GFIISXECU7G0M8ZPDW/PlaylistLogo1.jpg?format=1000w" group-title="PlayList",2000's Hits
+https://www.youtube.com/watch?v=DksSPZTZES0&list=PLpuDUpB0osJmZQ0a3n6imXirSu0QAZIqF
+
+#EXTM3U
 #EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Super Choque | 24H" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/0/0e/Static.shock.jpg/revision/latest?cb=20210529154515&path-prefix=pt-br" group-title="CANAIS 24H",Super Choque | 24H
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13525
 #EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="As Meninas Superpoderosas | 24H" tvg-logo="https://br.web.img2.acsta.net/pictures/15/05/20/17/18/336796.jpg" group-title="CANAIS 24H",As Meninas Superpoderosas | 24H
