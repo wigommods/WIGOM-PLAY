@@ -537,6 +537,7 @@ http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
 
 #EXTM3U
+
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="AXN MOVIES HD" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/7dbe6018-97d5-4f66-9557-36b55aba8949.png" group-title="CANAIS AXN CHANNEL",AXN MOVIES HD
 http://185.236.229.21:9981/play/a05l
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="AXN WHITE HD" tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg" group-title="CANAIS AXN CHANNEL",AXN WHITE HD
