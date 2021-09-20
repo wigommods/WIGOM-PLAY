@@ -537,6 +537,16 @@ http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
 
 #EXTM3U
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Sportv | FHD" tvg-logo="https://p16-amd-va.tiktokcdn.com/tos-maliva-avt-0068/7c7382f95830c05411bd4d03f314f43d~c5_300x300.jpeg?x-expires=1629387500&x-signature=rJl8B36KNGwOCb9Q5707GnDRNp6%3D" group-title="CANAIS Sportv",Sportv | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19600
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Sportv 2 | FHD" tvg-logo="https://p16-amd-va.tiktokcdn.com/tos-maliva-avt-0068/7c7382f95830c05411bd4d03f314f43d~c5_300x300.jpeg?x-expires=1629387500&x-signature=rJl8B36KNGwOCb9Q5707GnDRNp6%3D" group-title="CANAIS Sportv",Sportv 2 | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19601
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Sportv 3 | FHD" tvg-logo="https://p16-amd-va.tiktokcdn.com/tos-maliva-avt-0068/7c7382f95830c05411bd4d03f314f43d~c5_300x300.jpeg?x-expires=1629387500&x-signature=rJl8B36KNGwOCb9Q5707GnDRNp6%3D" group-title="CANAIS Sportv",Sportv 3 | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19602
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Combate | FHD" tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="CANAIS Sportv",Combate | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19608
+
+#EXTM3U
 #EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Super Choque | 24H" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/0/0e/Static.shock.jpg/revision/latest?cb=20210529154515&path-prefix=pt-br" group-title="CANAIS 24H",Super Choque | 24H
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13525
 #EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="As Meninas Superpoderosas | 24H" tvg-logo="https://br.web.img2.acsta.net/pictures/15/05/20/17/18/336796.jpg" group-title="CANAIS 24H",As Meninas Superpoderosas | 24H
