@@ -575,6 +575,8 @@ http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36933
 #EXTM3U
 #EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 2 FHD" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 2 FHD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38398
+#EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 1 FHD" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 1 FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19598
 #EXTM3U
 #EXTINF:-1 tvg-id="r7.com" tvg-name="A FAZENDA 13 PRINCIPAL[FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png" group-title="A FAZENDA 13 PRINCIPAL[FHD]",A FAZENDA 13 PRINCIPAL[FHD]
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36947
