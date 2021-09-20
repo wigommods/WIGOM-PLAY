@@ -579,8 +579,24 @@ http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13481
 #EXTM3U
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="TNT HD" tvg-logo="https://lh3.googleusercontent.com/proxy/a1dfhw_6XiqiFTNJSpT5BAN6CAy4xcBDMUuXNdWUVulQn89odCwWR7YyCMvUVKa-u6paWJKWUSGB3wa3X99_Lsr8t13vS10V063GwlIPzhAdBfQE_g" group-title="CANAIS TNT Brasil",TNT HD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36934
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="TNT FHD" tvg-logo="https://lh3.googleusercontent.com/proxy/a1dfhw_6XiqiFTNJSpT5BAN6CAy4xcBDMUuXNdWUVulQn89odCwWR7YyCMvUVKa-u6paWJKWUSGB3wa3X99_Lsr8t13vS10V063GwlIPzhAdBfQE_g" group-title="CANAIS TNT Brasil",TNT FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19609
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="TNT Séries HD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/TNT_Serie.jpg" group-title="CANAIS TNT Brasil",TNT Séries HD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36933
+
+#EXTM3U
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Telecine Premium | FHD" tvg-logo="https://d3a0dcqzwu0eh0.cloudfront.net/images/300_d3nvqtz58s3wyp41monh.jpg" group-title="CANAIS Telecine",Telecine Premium | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19610
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Telecine Action | FHD" tvg-logo="https://d3a0dcqzwu0eh0.cloudfront.net/images/300_d3nvqtz58s3wyp41monh.jpg" group-title="CANAIS Telecine",Telecine Action | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19611
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Telecine Touch | FHD" tvg-logo="https://d3a0dcqzwu0eh0.cloudfront.net/images/300_d3nvqtz58s3wyp41monh.jpg" group-title="CANAIS Telecine",Telecine Touch | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19612
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Telecine Pipoca | FHD" tvg-logo="https://d3a0dcqzwu0eh0.cloudfront.net/images/300_d3nvqtz58s3wyp41monh.jpg" group-title="CANAIS Telecine",Telecine Pipoca | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19613
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Telecine Fun | FHD" tvg-logo="https://d3a0dcqzwu0eh0.cloudfront.net/images/300_d3nvqtz58s3wyp41monh.jpg" group-title="CANAIS Telecine",Telecine Fun | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19614
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Telecine Cult | FHD" tvg-logo="https://d3a0dcqzwu0eh0.cloudfront.net/images/300_d3nvqtz58s3wyp41monh.jpg" group-title="CANAIS Telecine",Telecine Cult | FHD
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19615
 
 #EXTM3U
 #EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 2 FHD" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 2 FHD
