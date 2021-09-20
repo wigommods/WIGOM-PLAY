@@ -537,6 +537,14 @@ http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38405
 
 #EXTM3U
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Super Choque | 24H" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/0/0e/Static.shock.jpg/revision/latest?cb=20210529154515&path-prefix=pt-br" group-title="CANAIS 24H",Super Choque | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13525
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="As Meninas Superpoderosas | 24H" tvg-logo="https://br.web.img2.acsta.net/pictures/15/05/20/17/18/336796.jpg" group-title="CANAIS 24H",As Meninas Superpoderosas | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13444
+#EXTINF:-1 tvg-id="canais2h.com/wigom" tvg-name="Ben 10 | 24H" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU1MGQ1YTgtZTdkYi00ODI3LWFjMzItYmZkN2IxMmM0M2M4XkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_.jpg" group-title="CANAIS 24H",Ben 10 | 24H
+http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13445
+
+#EXTM3U
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="TNT HD" tvg-logo="https://lh3.googleusercontent.com/proxy/a1dfhw_6XiqiFTNJSpT5BAN6CAy4xcBDMUuXNdWUVulQn89odCwWR7YyCMvUVKa-u6paWJKWUSGB3wa3X99_Lsr8t13vS10V063GwlIPzhAdBfQE_g" group-title="CANAIS TNT Brasil",TNT HD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36934
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="TNT Séries HD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/TNT_Serie.jpg" group-title="CANAIS TNT Brasil",TNT Séries HD
