@@ -485,6 +485,10 @@ https://pitou.goyabu.com/hunter-x-hunter-2011/147.mp4
 https://pitou.goyabu.com/hunter-x-hunter-2011/148.mp4
 
 #EXTM3U
+#EXTINF:-1 tvg-id="homemaranha.com/wigom" tvg-name="Homem-Aranha - Coleção de Filmes" tvg-logo="https://dvdefilme.files.wordpress.com/2012/10/homem-aranha-1.jpg" group-title="Homem-Aranha - Coleção de Filmes",HOMEM-ARANHA (2002)
+https://zetadelivery.r.worldssl.net/-f-i-l-m-e-s-/dub/557.mp4
+
+#EXTM3U
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="JOVEM PAN" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logos-player/jpfm.jpg?v2" group-title="RÁDIOS",JOVEM PAN
 https://18223.live.streamtheworld.com/JP_SP_FMAAC.aac
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Mix FM [São Paulo]" tvg-logo="https://cdn-profiles.tunein.com/s265950/images/logod.png?t=160811" group-title="RÁDIOS",Rádio Mix FM [São Paulo]
