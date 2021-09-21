@@ -668,8 +668,24 @@ http://200.194.238.229:8000/udp/225.1.1.7:1234
 http://200.194.238.229:8000/udp/225.1.1.6:1234
 
 #EXTM3U
-#EXTINF:-1 tvg-id="r7.com" tvg-name="A FAZENDA 13 PRINCIPAL[FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png" group-title="A FAZENDA 13 PRINCIPAL[FHD]",A FAZENDA 13 PRINCIPAL[FHD]
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="CANAIS | REALITY RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png",A FAZENDA (SINAL 1)
+http://51.222.46.117:80/mirian2021/mirian2021/795419
+#EXTINF:-1 group-title="CANAIS | REALITY RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png",A FAZENDA (SINAL 2)
+http://51.222.46.117:80/mirian2021/mirian2021/795424
+#EXTINF:-1 group-title="CANAIS | REALITY RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png",A FAZENDA (SINAL 3)
+http://51.222.46.117:80/mirian2021/mirian2021/795425
+#EXTINF:-1 group-title="CANAIS | REALITY RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png",A FAZENDA (SINAL 4)
+http://51.222.46.117:80/mirian2021/mirian2021/795426
+#EXTINF:-1 group-title="CANAIS | REALITY RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png",A FAZENDA (SINAL 5)
+http://51.222.46.117:80/mirian2021/mirian2021/795427
+#EXTINF:-1 group-title="CANAIS | REALITY RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png",A FAZENDA (SINAL 6)
+http://51.222.46.117:80/mirian2021/mirian2021/795428
+#EXTINF:-1 group-title="CANAIS | REALITY RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png",A FAZENDA (SINAL 7)
+http://51.222.46.117:80/mirian2021/mirian2021/795429
+#EXTINF:-1 group-title="CANAIS | REALITY RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png",A FAZENDA (SINAL 8)
+http://51.222.46.117:80/mirian2021/mirian2021/795430
+#EXTINF:-1 group-title="CANAIS | REALITY RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png",A FAZENDA 13 PRINCIPAL
+http://51.222.46.117:80/mirian2021/mirian2021/765850
 
 
 
