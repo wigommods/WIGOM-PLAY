@@ -669,7 +669,7 @@ http://200.194.238.229:8000/udp/225.1.1.6:1234
 
 #EXTM3U
 #EXTINF:-1 tvg-id="r7.com" tvg-name="A FAZENDA 13 PRINCIPAL[FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png" group-title="A FAZENDA 13 PRINCIPAL[FHD]",A FAZENDA 13 PRINCIPAL[FHD]
-http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/36947
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
 
 
