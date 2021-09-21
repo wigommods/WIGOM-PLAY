@@ -506,6 +506,8 @@ https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8?wmsAuthSign=WIGOMMODS
 #EXTINF:-1 tvg-id="canaisalternativo" tvg-name="1hd music television" tvg-logo="https://satsis.info/uploads/posts/2016-08/1470135864_www.satsis.info__1hd-music-television.png" group-title="CANAIS ALTERNATIVOS",1hd music television
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+#EXTINF:-1 tvg-id="canaisalternativo" tvg-name="Rede Boas Novas" tvg-logo="http://boasnovas.tv/wp-content/uploads/2013/11/logo_site_300.png" group-title="CANAIS ALTERNATIVOS",Rede Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="JOVEM PAN" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logos-player/jpfm.jpg?v2" group-title="RÁDIOS",JOVEM PAN
