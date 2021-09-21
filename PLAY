@@ -505,7 +505,7 @@ https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="canaisalternativo" tvg-name="Rewind TV HD" tvg-logo="https://mytuner.global.ssl.fastly.net/media/radios-150px/hevqhuc6gbtv.jpg" group-title="CANAIS ALTERNATIVOS",Rewind TV HD
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8?wmsAuthSign=WIGOMMODS
 #EXTINF:-1 tvg-id="canaisalternativo" tvg-name="1hd music television" tvg-logo="https://satsis.info/uploads/posts/2016-08/1470135864_www.satsis.info__1hd-music-television.png" group-title="CANAIS ALTERNATIVOS",1hd music television
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="canaisalternativo" tvg-name="Rede Boas Novas" tvg-logo="http://boasnovas.tv/wp-content/uploads/2013/11/logo_site_300.png" group-title="CANAIS ALTERNATIVOS",Rede Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 #EXTINF:-1 tvg-id="canaisalternativo" tvg-name="Amazon Sat Play" tvg-logo="https://amazonsatplay.com/assets/enterprise/logo.svg" group-title="CANAIS ALTERNATIVOS",Amazon Sat Play
