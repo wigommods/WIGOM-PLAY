@@ -833,6 +833,8 @@ http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13109
 http://starsat123.com:8080/obsexchange/telgrammm/53518
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="TCM  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Canais Variedades",TCM  HD
 http://starsat123.com:8080/obsexchange/telgrammm/53478
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Canais Variedades",TBS HD
+http://starsat123.com:8080/obsexchange/telgrammm/53476
 #EXTINF:-1 tvg-id="Sbt.com.br" tvg-name="MTV BRASIL HD" tvg-logo="https://criadoresid.com/wp-content/uploads/2021/04/MTV-300x300.jpg" group-title="Canais Variedades",MTV BRASIL HD
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/13289
 #EXTINF:-1 tvg-id="" tvg-name="EVANGELIZAR HD" tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="Canais Religiosos ",EVANGELIZAR HD
