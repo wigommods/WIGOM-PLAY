@@ -756,7 +756,11 @@ http://mytv.fun:8080/kio4j1hldof/bo13zz7tugh/671334
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://1.bp.blogspot.com/-mcxD36PSsn0/YQ_K4OsVh6I/AAAAAAAAAkw/CFknUCLWpA88IS1paUxBNgl_I_5_Xd4gACNcBGAsYHQ/s400/IMG_20210808_091435_945.jpg" group-title="CANAIS DE ANIMES",ANIME TV [opção 1]
 https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://1.bp.blogspot.com/-mcxD36PSsn0/YQ_K4OsVh6I/AAAAAAAAAkw/CFknUCLWpA88IS1paUxBNgl_I_5_Xd4gACNcBGAsYHQ/s400/IMG_20210808_091435_945.jpg" group-title="CANAIS DE ANIMES",ANIME TV [opção 2]
-https://stmv1.srvif.com/animetv/animetv/chunklist_w156828718.m3u8
+https://stmv1.srvstm.com/animetv2/animetv2/chunklist_w1420880469.m3u8
+#EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="TV TOKYO" tvg-logo="https://1.bp.blogspot.com/-5Ld1R5LHq7U/YTZXuMAdFtI/AAAAAAAAFas/yZVSu4g8hv4zYeArZPLufJBa6d-V4HGrACLcBGAsYHQ/s200/TV%2BTOKYO.webp" group-title="CANAIS DE ANIMES",TV TOKYO
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w1798935438.m3u8
+#EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME ZONE TV" tvg-logo="https://1.bp.blogspot.com/-hUrlcUVBcpg/YQbWA_HcQvI/AAAAAAAAFC0/qSWfyuwlK748_xOAL6cFFgqMv4EGfA5QgCLcBGAsYHQ/s0/ANIME%2BZONE%2BTV.png" group-title="CANAIS DE ANIMES",ANIME ZONE TV
+https://azxtv.com/hls/stream.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-op011tmRIXQ/Xk70oGwc0-I/AAAAAAAACH8/Pf3FY0ON8Ic7PXZDKBtbiGbLJU4imuV4wCLcBGAsYHQ/s1600/warnerchannel.png" group-title="Canais Filmes e Series ",WARNER CHANNEL HD
