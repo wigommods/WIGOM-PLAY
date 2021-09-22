@@ -795,12 +795,22 @@ http://solutionplay.xyz:8080/techruthes/87903691/6331
 http://solutionplay.xyz:8080/techruthes/87903691/13873
 #EXTINF:-1 tvg-id="Sbt.com.br" tvg-name="SBT HD" tvg-logo="https://seeklogo.com/images/S/sbt-logo-3D30D31294-seeklogo.com.png" group-title="Canais Variedades",SBT HD
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
+
+#EXTM3U
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="CANAIS STAR CHANNEL",STAR CHANNEL HD
 http://solutionplay.xyz:8080/techruthes/87903691/6439
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR HITS HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="CANAIS STAR CHANNEL",STAR HITS HD
 http://200.194.238.229:8000/udp/225.1.1.2:1234
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR HITS 2 HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="CANAIS STAR CHANNEL",STAR HITS 2 HD
 http://200.194.238.229:8000/udp/225.1.1.3:1234
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Life HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="CANAIS STAR CHANNEL",Star Life HD
+http://starsat123.com:8080/obsexchange/telgrammm/53271
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Hits 2 HD opção 2" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="CANAIS STAR CHANNEL","Star Hits 2 HD opção 2
+http://starsat123.com:8080/obsexchange/telgrammm/53276
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Sony.br" tvg-name=" SyFy HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-hd_m.png" group-title="Canais Filmes e Series ", SyFy HD
+http://starsat123.com:8080/obsexchange/telgrammm/53474
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="https://1.bp.blogspot.com/-7mzrwenGEL0/XmQY1Lhuh0I/AAAAAAAACSM/KO7bzqORN4MkRz4IYz5nmmvsvpMa7AWEQCK4BGAYYCw/s400/SONY.png" group-title="Canais Filmes e Series ",SONY HD
 http://solutionplay.xyz:8080/techruthes/87903691/6463
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://1.bp.blogspot.com/-YBl9_nxYYEg/Xk70g8w-e4I/AAAAAAAACGw/Dka4nvxveQomHzF23ECe1TTjbLrHmV7HQCLcBGAsYHQ/s1600/space.png" group-title="Canais Filmes e Series ",SPACE HD
