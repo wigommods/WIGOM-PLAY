@@ -717,38 +717,41 @@ http://51.222.46.117:80/mirian2021/mirian2021/765850
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/mmatorch.com/desktop/wp-content/uploads/2015/10/Fox-Sports-1-logo-300x250.jpg?fit=300%2C250&ssl=1" group-title="CANAIS DE TV", FOX SPORTS 1 AMERICA LATINA [FHD]
+#EXTINF:-1 tvg-logo="https://i0.wp.com/mmatorch.com/desktop/wp-content/uploads/2015/10/Fox-Sports-1-logo-300x250.jpg?fit=300%2C250&ssl=1" group-title="CANAIS DE TV",FOX SPORTS 1 AMERICA LATINA [FHD]
 http://45.181.121.154:8000/play/a013
 
-#EXTINF:-1 tvg-logo="https://exorbeo.com/wp-content/uploads/2013/07/fox-sports-2-hd-na-sky.jpg" group-title="CANAIS DE TV", FOX SPORTS 2 AMERICA LATINA [HQ]
+#EXTINF:-1 tvg-logo="https://exorbeo.com/wp-content/uploads/2013/07/fox-sports-2-hd-na-sky.jpg" group-title="CANAIS DE TV",FOX SPORTS 2 AMERICA LATINA [HQ]
 http://45.181.121.154:8000/play/a014
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fb/f1/3b/fbf13be9a4347264b95e04b66c0d0b56.png" group-title="CANAIS DE TV", FOX SPORTS 3 AMERICA LATINA [HD]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fb/f1/3b/fbf13be9a4347264b95e04b66c0d0b56.png" group-title="CANAIS DE TV",FOX SPORTS 3 AMERICA LATINA [HD]
 http://45.181.121.154:8000/play/a015
 
-#EXTINF:-1 tvg-logo="https://www.tailorbrands.com/wp-content/uploads/2021/06/Artboard-1-copy-6-100.jpg" group-title="CANAIS DE TV", E! Entertainment AMERICA LATINA [HQ]
+#EXTINF:-1 tvg-logo="https://www.tailorbrands.com/wp-content/uploads/2021/06/Artboard-1-copy-6-100.jpg" group-title="CANAIS DE TV",E! Entertainment AMERICA LATINA [HQ]
 http://45.181.121.154:8000/play/a024
 
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/98a8d8b2-9715-4d47-86a2-295ebdff5cb7/1x1/300_20200602202355.jpg" group-title="CANAIS DE TV", ESPN 1 AMERICA LATINA [HQ]
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/98a8d8b2-9715-4d47-86a2-295ebdff5cb7/1x1/300_20200602202355.jpg" group-title="CANAIS DE TV",ESPN 1 AMERICA LATINA [HQ]
 http://45.181.121.154:8000/play/a016
 
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/98a8d8b2-9715-4d47-86a2-295ebdff5cb7/1x1/300_20200602202355.jpg" group-title="CANAIS DE TV", ESPN 2 AMERICA LATINA [HQ]
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/98a8d8b2-9715-4d47-86a2-295ebdff5cb7/1x1/300_20200602202355.jpg" group-title="CANAIS DE TV",ESPN 2 AMERICA LATINA [HQ]
 http://45.181.121.154:8000/play/a017
 
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/98a8d8b2-9715-4d47-86a2-295ebdff5cb7/1x1/300_20200602202355.jpg" group-title="CANAIS DE TV", ESPN 3 AMERICA LATINA [HQ]
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/98a8d8b2-9715-4d47-86a2-295ebdff5cb7/1x1/300_20200602202355.jpg" group-title="CANAIS DE TV",ESPN 3 AMERICA LATINA [HQ]
 http://45.181.121.154:8000/play/a018
 
-#EXTINF:-1 tvg-logo="https://criadoresid.com/wp-content/uploads/2021/04/MTV-300x300.jpg" group-title="CANAIS DE TV", MTV AMERICA LATINA [HQ]
+#EXTINF:-1 tvg-logo="https://criadoresid.com/wp-content/uploads/2021/04/MTV-300x300.jpg" group-title="CANAIS DE TV",MTV AMERICA LATINA [HQ]
 http://45.181.121.154:8000/play/a022
 
-#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/5/4/z/mtv-80.jpg" group-title="CANAIS DE TV", MTV 80s [HQ]
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/5/4/z/mtv-80.jpg" group-title="CANAIS DE TV",MTV 80s [HQ]
 http://62.176.112.19:8008/play/a0bi
 
-#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/08/images-1-1-2.jpg" group-title="CANAIS DE TV", MTV Biggest Pop [FHD]
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="CANAIS DE TV",MTV Biggest POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8?
 
-#EXTINF:-1 tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/038/160_160_1/6106e87f613b6.png" group-title="CANAIS DE TV", MTV Nonstop Nostalgia [FHD]
+#EXTINF:-1 tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/038/160_160_1/6106e87f613b6.png" group-title="CANAIS DE TV",MTV Nonstop Nostalgia [FHD]
 http://62.176.112.19:8008/play/a0bj
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="CANAIS DE TV",MTV LIVE
+http://mytv.fun:8080/kio4j1hldof/bo13zz7tugh/671334
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-op011tmRIXQ/Xk70oGwc0-I/AAAAAAAACH8/Pf3FY0ON8Ic7PXZDKBtbiGbLJU4imuV4wCLcBGAsYHQ/s1600/warnerchannel.png" group-title="Canais Filmes e Series ",WARNER CHANNEL HD
