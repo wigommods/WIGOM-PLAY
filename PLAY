@@ -690,8 +690,8 @@ http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19614
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19615
 
 #EXTM3U
-#EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 1 FHD" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 1 FHD
-http://200.194.238.229:8000/udp/225.1.1.7:1234
+#EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 1 HD" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 1 FHD
+https://content-asae1-up-2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1632352861&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&nielsen=1&iph=6919c68afd8060c2ba2cb3e45d2e475c5b79cb916740328d70f2cc646bdec731&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=56cce7edd634338bae85ea95e707d252b0824ce832a498f3e681dc85e808d592&pbs=71e69adf4c7445b2bfbfc28e90997f81
 #EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 2 FHD" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 2 FHD
 http://200.194.238.229:8000/udp/225.1.1.6:1234
 
