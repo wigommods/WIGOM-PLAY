@@ -606,6 +606,8 @@ http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19601
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19602
 #EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Combate | FHD" tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="CANAIS Sportv",Combate | FHD
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19608
+#EXTINF:-1 tvg-id="premiere.globo.com" tvg-name="Combate HD" tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="CANAIS Sportv",Combate HD
+http://starsat123.com:8080/obsexchange/telgrammm/53211
 
 #EXTM3U
 #EXTINF:-1 tvg-id="PowerRangersBeastMorphers.com/wigom" tvg-name="Power Rangers - Beast Morphers" tvg-logo="https://media.fstatic.com/3Ukj9DJFp07F4EOMZG4TVWgOkQg=/290x478/smart/media/movies/covers/2020/05/Power_Rangers_Beast_Morphers_Poster_big.jpg" group-title="YOUTUBE On Demand",Power Rangers - Beast Morphers
