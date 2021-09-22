@@ -780,7 +780,7 @@ http://solutionplay.xyz:8080/techruthes/87903691/6331
 #EXTINF:-1 tvg-id="" tvg-name="PrimePlay Music (EM FASE DE TESTES)" tvg-logo="https://i.imgur.com/bCLtAv7.png" group-title="Canais Variedades",PrimePlay Music (EM FASE DE TESTES)
 http://solutionplay.xyz:8080/techruthes/87903691/13873
 #EXTINF:-1 tvg-id="Sbt.com.br" tvg-name="SBT HD" tvg-logo="https://seeklogo.com/images/S/sbt-logo-3D30D31294-seeklogo.com.png" group-title="Canais Variedades",SBT HD
-https://cdn-scc-10192.ciclano.io:1443/scc-10192/scc-10192/chunklist_w70379980.m3u8
+https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="Canais Variedades",ANIME TV [opção 1]
 https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="Canais Variedades",ANIME TV [opção 2]
