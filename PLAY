@@ -690,10 +690,10 @@ http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19614
 http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19615
 
 #EXTM3U
-#EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 1 HD" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 1 FHD
-https://content-asae1-up-2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1632352861&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&nielsen=1&iph=6919c68afd8060c2ba2cb3e45d2e475c5b79cb916740328d70f2cc646bdec731&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=56cce7edd634338bae85ea95e707d252b0824ce832a498f3e681dc85e808d592&pbs=71e69adf4c7445b2bfbfc28e90997f81
-#EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 2 FHD" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 2 FHD
-http://200.194.238.229:8000/udp/225.1.1.6:1234
+#EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 1 HD" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 1 HD
+https://content-asae1-up-2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1632353461&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&nielsen=1&iph=6c3145f26effd5561737fa2725d665993b0b00c32461e2cb2e9245029e53af55&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=3f4f96560818b1c2b359167909db8b9eb7090cfb5b609b3917a24aad68da7c7b&pbs=6e66330771b846d49ea9ee498b75092d
+#EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 2 HD" tvg-logo="https://www.pngarea.com/pngs/26/5596546_fox-logo-png-logotipo-de-fox-sports-png.png" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 2 HD
+https://content-asae1-up-2.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/e.m3u8?exp=1632353461&ct=c&cid=079d58338d294099914fc3e879c8e3ac&expand=drmOff&nielsen=1&iph=6c3145f26effd5561737fa2725d665993b0b00c32461e2cb2e9245029e53af55&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=542d4fa0d821b7e09d342c190eb6472a04aa93f22993df640ca704ad3e93e659&pbs=5a9253e421054fd0924ff407565fe959
 
 #EXTM3U
 #EXTINF:-1 group-title="CANAIS | REALITY RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/A_Fazenda_13.png",A FAZENDA (SINAL 1)
