@@ -752,6 +752,14 @@ http://62.176.112.19:8008/play/a0bj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="CANAIS DE TV",MTV LIVE
 http://mytv.fun:8080/kio4j1hldof/bo13zz7tugh/671334
 
+#EXTM3U
+#EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://1.bp.blogspot.com/-mcxD36PSsn0/YQ_K4OsVh6I/AAAAAAAAAkw/CFknUCLWpA88IS1paUxBNgl_I_5_Xd4gACNcBGAsYHQ/s400/IMG_20210808_091435_945.jpg" group-title="CANAIS DE ANIMES",ANIME TV [opção 1]
+https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
+#EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://1.bp.blogspot.com/-mcxD36PSsn0/YQ_K4OsVh6I/AAAAAAAAAkw/CFknUCLWpA88IS1paUxBNgl_I_5_Xd4gACNcBGAsYHQ/s400/IMG_20210808_091435_945.jpg" group-title="CANAIS DE ANIMES",ANIME TV [opção 2]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://1.bp.blogspot.com/-5Ld1R5LHq7U/YTZXuMAdFtI/AAAAAAAAFas/yZVSu4g8hv4zYeArZPLufJBa6d-V4HGrACLcBGAsYHQ/s200/TV%2BTOKYO.webp" group-title="CANAIS DE ANIMES",TV TOKYO
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w1798935438.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-op011tmRIXQ/Xk70oGwc0-I/AAAAAAAACH8/Pf3FY0ON8Ic7PXZDKBtbiGbLJU4imuV4wCLcBGAsYHQ/s1600/warnerchannel.png" group-title="Canais Filmes e Series ",WARNER CHANNEL HD
@@ -784,10 +792,6 @@ http://solutionplay.xyz:8080/techruthes/87903691/6331
 http://solutionplay.xyz:8080/techruthes/87903691/13873
 #EXTINF:-1 tvg-id="Sbt.com.br" tvg-name="SBT HD" tvg-logo="https://seeklogo.com/images/S/sbt-logo-3D30D31294-seeklogo.com.png" group-title="Canais Variedades",SBT HD
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
-#EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="Canais Variedades",ANIME TV [opção 1]
-https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
-#EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="Canais Variedades",ANIME TV [opção 2]
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="CANAIS STAR CHANNEL",STAR CHANNEL HD
 http://solutionplay.xyz:8080/techruthes/87903691/6439
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR HITS HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="CANAIS STAR CHANNEL",STAR HITS HD
