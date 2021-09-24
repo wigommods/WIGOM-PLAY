@@ -691,11 +691,9 @@ http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19615
 
 #EXTM3U
 #EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Fs1.png/revision/latest?cb=20160402190112" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 1 HD
-https://content-ausw2-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1632361141&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&nielsen=1&iph=e23aabedb4d9ae2c3af0e9a907c1dafbb923b955a10863c9ec86bf1c2b17b6b0&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=da4bd9470c7b4eac0c09e2178762a0efc9bd64ad7dd76f6b04158c990060e122&pbs=52495b6ef55a4b65ae00c4ab0a3a5731
-#EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Fs1.png/revision/latest?cb=20160402190112" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 1 opçãp 2 HD
-https://netfla.live/live/8/chunks.m3u8?nimblesessionid=3023
+https://content-asae1-up-2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1632520741&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&nielsen=1&iph=73985c73e58672e922e9f2ae3c6d4d3c4e433312ee9c1eb0d3e6cd368f6a22e9&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=097a79bcd9e685a786bbd67d199df64be703dbeff12fe6486a7db524e8daab48&pbs=b226f7faff4a418c97b8716aabd6c778
 #EXTINF:-1 tvg-id="r7.com" tvg-name="FoxSports Brasil 2 HD" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="CANAIS Fox Sports Brasil",FoxSports Brasil 2 HD
-https://content-ausw2-up-1.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/e.m3u8?exp=1632361141&ct=c&cid=079d58338d294099914fc3e879c8e3ac&expand=drmOff&nielsen=1&iph=e23aabedb4d9ae2c3af0e9a907c1dafbb923b955a10863c9ec86bf1c2b17b6b0&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=db0a2327fd24476709158c8bffce5f76498957b57d1a09bbbc784bf515ab96e0&pbs=a15d844261da4fdcbab759a8927b79af
+https://content-asae1-up-2.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/e.m3u8?exp=1632520741&ct=c&cid=079d58338d294099914fc3e879c8e3ac&expand=drmOff&nielsen=1&iph=73985c73e58672e922e9f2ae3c6d4d3c4e433312ee9c1eb0d3e6cd368f6a22e9&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=8473b28b7c317cb13e2a52707a7499982e557ec9c0a4379c041bc0fe6fd63edf&pbs=978cd9a324e546f88c427968c81ff90d
 
 
 #EXTM3U
