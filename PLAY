@@ -530,6 +530,8 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 https://hls.brasilstream.com.br/live/amazonsat/amazonsat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="canaisalternativo" tvg-name="NASA TV" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="CANAIS ALTERNATIVOS",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="canaisalternativo" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS ALTERNATIVOS",SBT
+https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="JOVEM PAN" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logos-player/jpfm.jpg?v2" group-title="RÁDIOS",JOVEM PAN
