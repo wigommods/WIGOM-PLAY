@@ -692,7 +692,7 @@ http://painel.tvdigitalsbl.net:80/helder2021/helder2021/19615
 #EXTM3U
 #EXTINF:-1 tvg-id="r7.com" tvg-name="Fox Sports Brasil 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Fs1.png/revision/latest?cb=20160402190112" group-title="CANAIS Fox Sports Brasil",Fox Sports Brasil 1 HD
 http://rec2.distv.net:80/damaris/123456/152
-#EXTINF:-1 tvg-id="r7.com" tvg-name="Fox Sports Brasil 2 HD" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="CANAIS Fox Sports Brasil",Fox Sports Brasil 2 HD
+#EXTINF:-1 tvg-id="r7.com" tvg-name="Fox Sports Brasil 2 HD" tvg-logo="https://www.dropbox.com/s/x01i0qm52ygd98k/foxsports%202%20by%20wigom%20mods.png" group-title="CANAIS Fox Sports Brasil",Fox Sports Brasil 2 HD
 http://rec2.distv.net:80/damaris/123456/153
 
 
