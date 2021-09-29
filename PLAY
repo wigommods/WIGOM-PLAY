@@ -590,6 +590,22 @@ http://solutionplay.xyz:8080/techruthes/10987658/5921
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Canais Religiosos ",TV APARECIDA HD
 http://solutionplay.xyz:8080/techruthes/10987658/6047
 
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT
+http://rec2.distv.net:80/damaris/123456/201
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="CANAIS TNT",TNT SERIES
+http://rec2.distv.net:80/damaris/123456/202
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="CANAIS ESPN",ESPN
+http://rec2.distv.net:80/damaris/123456/142
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="CANAIS ESPN",ESPN 2
+http://rec2.distv.net:80/damaris/123456/143
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="CANAIS ESPN",ESPN BRASIL
+http://rec2.distv.net:80/damaris/123456/144
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="CANAIS ESPN",ESPN EXTRA
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://distv.net/icons/foxsports.png" group-title="CANAIS FOXSPORTS",FOX SPORTS
+http://rec2.distv.net:80/damaris/123456/152
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://distv.net/icons/foxsports2.png" group-title="CANAIS FOXSPORTS",FOX SPORTS 2
+http://rec2.distv.net:80/damaris/123456/153
+
 #EXTINF:0 channel-id="guia-de-canais" tvg-logo="https://imgur.com/JSs5V3b.png" group-title="PLUTO TV BRASIL", Guia de Canais
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848732-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=051f3c1e-eeef-459d-b6b9-8b3a25af4b87&userId=&serverSideAds=true
 
