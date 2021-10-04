@@ -655,6 +655,10 @@ http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13266
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13110
 #EXTINF:-1 tvg-id="" tvg-name="EVANGELIZAR HD" tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="Canais Religiosos ",EVANGELIZAR HD
 http://solutionplay.xyz:8080/techruthes/10987658/5921
+
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="CANAIS GLOBOSAT",COMBATE HD
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856189
+
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Canais Religiosos ",TV APARECIDA HD
 http://solutionplay.xyz:8080/techruthes/10987658/6047
 
