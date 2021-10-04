@@ -643,6 +643,8 @@ http://solutionplay.xyz:8080/techruthes/10987658/5856
 http://solutionplay.xyz:8080/techruthes/10987658/5985
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png" group-title="Canais Documentários",ANIMAL PLANET HD
 http://solutionplay.xyz:8080/techruthes/10987658/5848
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="ANIMAL PLANET 2 HD" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png" group-title="Canais Documentários",ANIMAL PLANET 2 HD
+http://179.174.6.159:4000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="Canais Discovery",DISCOVERY CHANNEL HD
 http://solutionplay.xyz:8080/techruthes/10987658/5875
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://1.bp.blogspot.com/-uh9tauhKWww/Xk70ZxoWtWI/AAAAAAAACFo/MthwzRm9VcY96cemup2ZY_4hclxsCYvygCLcBGAsYHQ/s1600/history2.png" group-title="Canais Documentários",H2 HD
