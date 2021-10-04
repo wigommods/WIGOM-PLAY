@@ -611,6 +611,8 @@ http://solutionplay.xyz:8080/techruthes/10987658/6457
 http://solutionplay.xyz:8080/techruthes/10987658/6427
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://1.bp.blogspot.com/-BXGlMOVHnMs/Xk8rh1-AnnI/AAAAAAAACIk/f8OG9cGj4usH-PydVM-T9P7c1t5PFWjdQCK4BGAYYCw/s400/HGTV.png" group-title="Canais Variedades",HGTV HD
 http://solutionplay.xyz:8080/techruthes/10987658/6081
+#EXTINF:-1 tvg-id="eonline.com/br" tvg-name="E! HD" tvg-logo="https://jorgesalvador.files.wordpress.com/2012/04/e21hdlogo.png" group-title="Canais Variedades",E! HD
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856665
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="https://1.bp.blogspot.com/-bvOXCHs2GF0/XmUiDzgij6I/AAAAAAAACW4/QbZLmqWLRfMICJBeq6cfDBhayu_L2Ao5wCK4BGAYYCw/s400/NATGEO%2BKIDS.png" group-title="Canais infantis",NATGEO KIDS HD
 http://solutionplay.xyz:8080/techruthes/10987658/5973
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://1.bp.blogspot.com/-aondLW2i3Nw/Xk70ObLd84I/AAAAAAAACDk/UaL7ElNQW-AaFhG-9gEv2FSWp28Cci5hACLcBGAsYHQ/s1600/cartoonnetwork.png" group-title="Canais infantis",CARTOON NETWORK HD
@@ -663,16 +665,10 @@ http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856189
 http://solutionplay.xyz:8080/techruthes/10987658/6047
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT
-http://rec2.distv.net:80/damaris/123456/201
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856163
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="CANAIS TNT",TNT SERIES
-http://rec2.distv.net:80/damaris/123456/202
-#EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS TNT",TNT Sports 2 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports3Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS TNT",TNT Sports 3 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports4Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS TNT",TNT Sports 4 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports5Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS TNT",TNT Sports 5 Brasil (720p)
+http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856169
+
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="CANAIS ESPN",ESPN
 http://rec2.distv.net:80/damaris/123456/142
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="CANAIS ESPN",ESPN 2
