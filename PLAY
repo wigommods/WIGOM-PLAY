@@ -540,19 +540,6 @@ https://pitou.goyabu.com/kuroko-no-basket-1-temporada/24.mp4
 https://pitou.goyabu.com/kuroko-no-basket-1-temporada/25.mp4
 
 #EXTM3U
-#EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/29952.webp" group-title="FILMES",DIÁRIOS DE INTERCÂMBIO (2021)
-https://www.googleapis.com/drive/v3/files/17L4PS8peKd4J3f6D4wPMyOIWpE7dQjIf?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
-#EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/19785.webp" group-title="FILMES",UM TIO QUASE PERFEITO 1 (2017)
-https://www.googleapis.com/drive/v3/files/1gAh8_zkuLaUkngKCWhKKu4WF_Y5_RIb-?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
-#EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/27905.webp" group-title="FILMES",UM TIO QUASE PERFEITO 2 (2021)
-https://www.googleapis.com/drive/v3/files/1olYin0qbtUVeZic627qM7FOW4wzlNI9o?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
-#EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/17150.webp" group-title="FILMES",O ABUTRE (2014)
-https://www.googleapis.com/drive/v3/files/1WvsI7ADwnhF6gAO-yFqDRiMlnudANs2J?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
-#EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/21318.webp" group-title="FILMES",LIGADOS PELO AMOR (2012)
-https://www.googleapis.com/drive/v3/files/1JSjwvQ0Lb7ARp1bJascw7w8Sz88CTgC4?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
-#EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/17651.webp" group-title="FILMES",ANOS 90 (2018)
-https://www.googleapis.com/drive/v3/files/1lPxHhcUfKOXABS9YyKi3lsC6iMwvlp37?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
-
 #EXTINF:-1 tvg-id="animewigomplay.com" tvg-name="Kuroko no Basket (2013) [LEG][SD]" tvg-logo="https://animeyabu.com/capas/kuroko-no-basket-2nd-season-episodios.jpg" group-title="Kuroko no Basket (2013) [LEG][SD]",Kuroko no Basket (2013) [LEG][SD] – Episódio 01 – Nunca Pensei Que Nos Encontraríamos Aqui
 https://front.yabunews.top/hls/kuroko-no-basket-2-temporada/01.mp4/index.m3u8
 #EXTINF:-1 tvg-id="animewigomplay.com" tvg-name="Kuroko no Basket (2013) [LEG][SD]" tvg-logo="https://animeyabu.com/capas/kuroko-no-basket-2nd-season-episodios.jpg" group-title="Kuroko no Basket (2013) [LEG][SD]",Kuroko no Basket (2013) [LEG][SD] – Episódio 02 – Na Copa De Inverno
@@ -584,8 +571,19 @@ https://front.yabunews.top/hls/kuroko-no-basket-2-temporada/14.mp4/index.m3u8
 #EXTINF:-1 tvg-id="animewigomplay.com" tvg-name="Kuroko no Basket (2013) [LEG][SD]" tvg-logo="https://animeyabu.com/capas/kuroko-no-basket-2nd-season-episodios.jpg" group-title="Kuroko no Basket (2013) [LEG][SD]",Kuroko no Basket (2013) [LEG][SD] – Episódio 15 – Acho Que Ele Não Pode Conter A Alegria
 https://front.yabunews.top/hls/kuroko-no-basket-2-temporada/15.mp4/index.m3u8
 
-
-
+#EXTM3U
+#EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/29952.webp" group-title="FILMES",DIÁRIOS DE INTERCÂMBIO (2021)
+https://www.googleapis.com/drive/v3/files/17L4PS8peKd4J3f6D4wPMyOIWpE7dQjIf?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
+#EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/19785.webp" group-title="FILMES",UM TIO QUASE PERFEITO 1 (2017)
+https://www.googleapis.com/drive/v3/files/1gAh8_zkuLaUkngKCWhKKu4WF_Y5_RIb-?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
+#EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/27905.webp" group-title="FILMES",UM TIO QUASE PERFEITO 2 (2021)
+https://www.googleapis.com/drive/v3/files/1olYin0qbtUVeZic627qM7FOW4wzlNI9o?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
+#EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/17150.webp" group-title="FILMES",O ABUTRE (2014)
+https://www.googleapis.com/drive/v3/files/1WvsI7ADwnhF6gAO-yFqDRiMlnudANs2J?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
+#EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/21318.webp" group-title="FILMES",LIGADOS PELO AMOR (2012)
+https://www.googleapis.com/drive/v3/files/1JSjwvQ0Lb7ARp1bJascw7w8Sz88CTgC4?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
+#EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/17651.webp" group-title="FILMES",ANOS 90 (2018)
+https://www.googleapis.com/drive/v3/files/1lPxHhcUfKOXABS9YyKi3lsC6iMwvlp37?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
 
 #EXTM3U
 #EXTINF:-1 tvg-id="homemaranha.com/wigom" tvg-name="Homem-Aranha - Coleção de Filmes" tvg-logo="https://vizer.tv/content/movies/posterPt/342/18328.webp" group-title="Homem-Aranha - Coleção de Filmes",HOMEM-ARANHA 1 (2002)
