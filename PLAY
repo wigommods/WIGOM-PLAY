@@ -660,12 +660,14 @@ http://solutionplay.xyz:8080/techruthes/10987658/5875
 http://solutionplay.xyz:8080/techruthes/10987658/5939
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png" group-title="Canais Documentários",HISTORY CHANNEL HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13266
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD [Opção 2]" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png" group-title="Canais Documentários",HISTORY CHANNEL HD [Opção 2]
+http://solutionplay.xyz:8080/techruthes/10987658/5966
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://2.bp.blogspot.com/-YLvYyrLM0Tc/XmQENo4hcuI/AAAAAAAACQs/jKWMWXYMuvIhu7iXvLJCm-9BEONKMcqxwCK4BGAYYCw/s400/MULTICHO.png" group-title="Canais Variedades",MULTISHOW HD
 http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856709
 #EXTINF:-1 tvg-id="" tvg-name="EVANGELIZAR HD" tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="Canais Religiosos ",EVANGELIZAR HD
 http://solutionplay.xyz:8080/techruthes/10987658/5921
 
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="CANAIS GLOBOSAT",COMBATE HD
+#EXTINF:-1 tvg-id="combate.globo.com" tvg-name="COMBATE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="CANAIS GLOBOSAT",COMBATE HD
 http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856189
 
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Canais Religiosos ",TV APARECIDA HD
@@ -2939,7 +2941,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6041236542d13a0007c
 https://18223.live.streamtheworld.com/JP_SP_FMAAC.aac
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Mix FM [São Paulo]" tvg-logo="https://cdn-profiles.tunein.com/s265950/images/logod.png?t=160811" group-title="RÁDIOS",Rádio Mix FM [São Paulo]
 https://17843.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Versão Interativa [VIFM][128kps]" tvg-logo="https://scontent.fpll4-1.fna.fbcdn.net/v/t39.30808-6/242315844_178172251117385_5029309863055135012_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=SWd1rDaglpgAX9vXwbj&_nc_ht=scontent.fpll4-1.fna&oh=74a0639c4f98321bbb30343fbf39af7b&oe=614C69B9" group-title="RÁDIOS",Rádio Versão Interativa [VIFM][128kps]
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="VIFM RADIO" tvg-logo="https://www.dropbox.com/s/v92zgx13q1ch0sw/vifmradio.com.br.png?dl=0" group-title="RÁDIOS",VIFM RADIO
 http://node-15.zeno.fm:80/1kf9qv92238uv
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Kiss FM 92.5" tvg-logo="https://img.radios.com.br/radio/lg/radio13561_1560259438.png" group-title="RÁDIOS",Rádio Kiss FM 92.5
 https://24383.live.streamtheworld.com/RADIO_KISSFMAAC.aac
