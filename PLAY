@@ -2941,7 +2941,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6041236542d13a0007c
 https://18223.live.streamtheworld.com/JP_SP_FMAAC.aac
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Mix FM [São Paulo]" tvg-logo="https://cdn-profiles.tunein.com/s265950/images/logod.png?t=160811" group-title="RÁDIOS",Rádio Mix FM [São Paulo]
 https://17843.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
-#EXTINF:-1 tvg-id="radios.wigom" tvg-name="VIFM RADIO" tvg-logo="https://www.dropbox.com/s/v92zgx13q1ch0sw/vifmradio.com.br.png?dl=0" group-title="RÁDIOS",VIFM RADIO
+#EXTINF:-1 tvg-id="radios.wigom" tvg-name="VIFM RADIO" tvg-logo="https://imgur.com/a/SVa8Lmz" group-title="RÁDIOS",VIFM RADIO
 http://node-15.zeno.fm:80/1kf9qv92238uv
 #EXTINF:-1 tvg-id="radios.wigom" tvg-name="Rádio Kiss FM 92.5" tvg-logo="https://img.radios.com.br/radio/lg/radio13561_1560259438.png" group-title="RÁDIOS",Rádio Kiss FM 92.5
 https://24383.live.streamtheworld.com/RADIO_KISSFMAAC.aac
