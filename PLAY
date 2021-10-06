@@ -605,6 +605,9 @@ https://www.googleapis.com/drive/v3/files/1JSjwvQ0Lb7ARp1bJascw7w8Sz88CTgC4?alt=
 #EXTINF:-1 tvg-id="filmes.com/wigom" tvg-name="FILMES" tvg-logo="https://vizer.tv/content/movies/posterPt/342/17651.webp" group-title="FILMES",ANOS 90 (2018)
 https://www.googleapis.com/drive/v3/files/1lPxHhcUfKOXABS9YyKi3lsC6iMwvlp37?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
 
+#EXTINF:-1 tvg-id="lancamento.com" tvg-name="LANÇAMENTOS DE FILMES" tvg-logo="https://image.tmdb.org/t/p/w500/jNd6tx7FL2h7wtZgLUsLvzD0kFN.jpg" group-title="LANÇAMENTOS DE FILMES",Venom: Tempo de Carnificina (2021) [HD-CAM][LG]
+https://www.googleapis.com/drive/v3/files/1aH-9EPkldy7gyLFydY8PzwI7lz8fCDfB?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
+
 #EXTM3U
 #EXTINF:-1 tvg-id="homemaranha.com/wigom" tvg-name="Homem-Aranha - Coleção de Filmes" tvg-logo="https://vizer.tv/content/movies/posterPt/342/18328.webp" group-title="Homem-Aranha - Coleção de Filmes",HOMEM-ARANHA 1 (2002)
 https://www.googleapis.com/drive/v3/files/16qq1uqtCGejUO3IYA8H3JcvZxFvXWh3B?alt=media&key=AIzaSyAj-r-EApZfPTKKO_d9kHEqRNs0Qgds3ZE
