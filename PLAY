@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=FyoTQCmpgzs
 
 #EXTM3U
-#EXTINF:-1 tvg-id="KpopTVPlay" tvg-name="KpopTV Play" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="KpopTV Play",KpopTV Play
+#EXTINF:-1 tvg-id="CanaisdeMúsica" tvg-name="Canais de Música" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Canais de Música",KpopTV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 
