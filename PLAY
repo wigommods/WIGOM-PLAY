@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-logo="http://www.glempreendimentosmg.com.br/sig/img/icones/atualizar.png" group-title="Info",WIGOM MOD'S PLAY 22/10/21
 https://www.youtube.com/watch?v=FyoTQCmpgzs
 
-#EXTM3U
-#EXTINF:-1 tvg-id="CanaisdeMúsica" tvg-name="Canais de Música" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Canais de Música",KpopTV Play
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://images.static-bluray.com/products/20/13968_1_front.jpg" group-title="Hunter x Hunter 1999", 01 DUBLADO
 https://pitou.goyabu.com/hunter-x-hunter-dublado/01.mp4
 #EXTINF:-1 tvg-logo="https://images.static-bluray.com/products/20/13968_1_front.jpg" group-title="Hunter x Hunter 1999", 02 DUBLADO
@@ -632,6 +626,8 @@ https://www.googleapis.com/drive/v3/files/1aaMbP8rWUBJz5njeKkCA0fe0UQwvWXyb?alt=
 COMING SOON
 
 #EXTM3U
+#EXTINF:-1 tvg-id="Musica.com" tvg-name="ANIME TV" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="CANAIS DE MUSICA",KpopTV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="CANAIS DE ANIMES",ANIME TV [opção 1]
 https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
