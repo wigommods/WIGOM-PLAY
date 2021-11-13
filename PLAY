@@ -643,6 +643,9 @@ https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m
 #EXTINF:-1 tvg-id="Musica.com" tvg-name="MTV 80s" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/4/z/xmtv-80.jpg.pagespeed.ic.RWwaEL2lQk.webp" group-title="CANAIS DE MUSICA",MTV 80s
 http://185.150.130.94:8000/play/a04l
 
+#EXTINF:-1 tvg-id="Musica.com" tvg-name="CANAIS Premiere" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/4/z/xmtv-80.jpg.pagespeed.ic.RWwaEL2lQk.webp" group-title="CANAIS Premiere",Premiere Clubes HD
+http://177.91.162.202:8000/play/PFC/index.m3u8
+
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="CANAIS DE ANIMES",ANIME TV [opção 1]
 https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="CANAIS DE ANIMES",ANIME TV [opção 2]
