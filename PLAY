@@ -638,6 +638,8 @@ https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w572507198.m3u8
 #EXTINF:-1 tvg-id="Musica.com" tvg-name="MTV Biggest Pop" tvg-logo="https://rivevideo.com/wp-content/uploads/2019/11/MTV-biggest-pop-1024x222.jpg" group-title="CANAIS DE MUSICA",MTV Biggest Pop
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-id="Musica.com" tvg-name="MTV Brasil HD" tvg-logo="http://3.bp.blogspot.com/-iu3kGF_noJo/UXHe6uT0jhI/AAAAAAAAFSo/3tFegB5o8jg/w1200-h630-p-k-no-nu/mtv.png" group-title="CANAIS DE MUSICA",MTV Brasil HD
+https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8
 
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="CANAIS DE ANIMES",ANIME TV [opção 1]
 https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
