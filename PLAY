@@ -628,7 +628,7 @@ COMING SOON
 #EXTM3U
 #EXTINF:-1 tvg-id="abc.com" tvg-name="ABC" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png" group-title="CANAIS ABC",ABC 1
 https://cdn1-7p.teleuptv.net/156ba356-4891-4ced-a99c-948bcadcfc71/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="abc.com" tvg-name="ABC" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png" group-title="CANAIS ABC",ABC 2
+#EXTINF:-1 tvg-id="abc.com" tvg-name="ABC 2" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png" group-title="CANAIS ABC",ABC 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="Musica.com" tvg-name="KpopTV Play" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="CANAIS DE MUSICA",KpopTV Play
