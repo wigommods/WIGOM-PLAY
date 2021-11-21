@@ -751,7 +751,8 @@ http://solutionplay.xyz:8080/techruthes/10987658/5921
 http://livetv2021.site:8080/9897876765/6576567/119
 #EXTINF:-1 tvg-id="combate.globo.com" tvg-name="COMBATE 2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="CANAIS GLOBOSAT",COMBATE 2
 http://livetv2021.site:8080/9897876765/6576567/120
-
+#EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Sportv HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/sportv-150x28.png" group-title="CANAIS GLOBOSAT",Sportv HD
+http://livetv2021.site:8080/9897876765/6576567/56
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Canais Religiosos ",TV APARECIDA HD
 http://solutionplay.xyz:8080/techruthes/10987658/6047
 
@@ -761,18 +762,15 @@ http://livetv2021.site:8080/9897876765/6576567/168
 http://livetv2021.site:8080/9897876765/6576567/6667
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="CANAIS ESPN",ESPN
-http://rec2.distv.net:80/damaris/123456/142
+http://livetv2021.site:8080/9897876765/6576567/166
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="CANAIS ESPN",ESPN 2
-http://rec2.distv.net:80/damaris/123456/143
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="CANAIS ESPN",ESPN BRASIL
-http://rec2.distv.net:80/damaris/123456/144
+http://livetv2021.site:8080/9897876765/6576567/6618
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="CANAIS ESPN",ESPN EXTRA
+http://livetv2021.site:8080/9897876765/6576567/6626
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://distv.net/icons/foxsports.png" group-title="CANAIS FOXSPORTS",FOX SPORTS
-http://rec2.distv.net:80/damaris/123456/152
+http://livetv2021.site:8080/9897876765/6576567/98
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://distv.net/icons/foxsports2.png" group-title="CANAIS FOXSPORTS",FOX SPORTS 2
-http://rec2.distv.net:80/damaris/123456/153
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxsportshd.png" group-title="CANAIS FOXSPORTS",FOX SPORTS HD
-https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1632967622&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&nielsen=1&iph=274c970321afcc2aa6c96df3dc846caa31cfbdb77c4457530f504ff1f5440984&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=6abc2e93a21b6c618468fe112f73f68d7f0e74001c8d76e2a7a2637efc449409&pbs=502dfad2876e4d1aafd6d893549b7fd1
+http://livetv2021.site:8080/9897876765/6576567/100
 
 #EXTINF:0 channel-id="guia-de-canais" tvg-logo="https://imgur.com/JSs5V3b.png" group-title="PLUTO TV BRASIL", Guia de Canais
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848732-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=051f3c1e-eeef-459d-b6b9-8b3a25af4b87&userId=&serverSideAds=true
