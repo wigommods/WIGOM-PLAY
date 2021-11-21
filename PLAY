@@ -631,7 +631,6 @@ https://cdn1-7p.teleuptv.net/156ba356-4891-4ced-a99c-948bcadcfc71/tracks-v1a1/mo
 #EXTINF:-1 tvg-id="abc.com" tvg-name="ABC 2" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png" group-title="CANAIS ABC",ABC 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="pedidosdoflavio" tvg-name="Top Latino TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96f9ace23f67b9e02fa0ec30dd2f756.webp" group-title="PEDIDOS DO FLAVIO",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1263588031.m3u8
 
