@@ -779,6 +779,8 @@ http://solutionplay.xyz:8080/techruthes/10987658/6047
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT
 http://livetv2021.site:8080/9897876765/6576567/168
+#EXTINF:-1 tvg-id="" tvg-name="TNT LATINO" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT LATINO
+http://45.176.70.89:8000/play/a008
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="CANAIS TNT",TNT SERIES
 http://livetv2021.site:8080/9897876765/6576567/6667
 
