@@ -783,6 +783,8 @@ http://solutionplay.xyz:8080/techruthes/10987658/6047
 http://livetv2021.site:8080/9897876765/6576567/168
 #EXTINF:-1 tvg-id="" tvg-name="TNT LATINO" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT LATINO
 http://45.176.70.89:8000/play/a008
+#EXTINF:-1 tvg-id="" tvg-name="TNT LATINO MHL" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT LATINO MHL
+https://m3u9.ml/b/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=UjJLPEosBMklhTGDeOwOTA&3U1G7qaTxrPbalZnEx=1637563738
 #EXTINF:-1 tvg-id="" tvg-name="TNT LATINO 2" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT LATINO 2
 http://201.111.178.167:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT LATINO 3" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT LATINO 3
