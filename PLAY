@@ -743,6 +743,8 @@ http://solutionplay.xyz:8080/techruthes/10987658/5921
 
 #EXTINF:-1 tvg-id="combate.globo.com" tvg-name="COMBATE HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="CANAIS GLOBOSAT",COMBATE HD
 http://livetv2021.site:8080/9897876765/6576567/119
+#EXTINF:-1 tvg-id="combate.globo.com" tvg-name="COMBATE 2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="CANAIS GLOBOSAT",COMBATE 2
+http://livetv2021.site:8080/9897876765/6576567/120
 
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Canais Religiosos ",TV APARECIDA HD
 http://solutionplay.xyz:8080/techruthes/10987658/6047
