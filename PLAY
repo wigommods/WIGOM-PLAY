@@ -682,8 +682,6 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 https://hls.brasilstream.com.br/live/amazonsat/amazonsat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="canaisalternativo" tvg-name="NASA TV" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="CANAIS ALTERNATIVOS",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="canaisalternativo" tvg-name="SBT HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="CANAIS ALTERNATIVOS",SBT HD
-https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-op011tmRIXQ/Xk70oGwc0-I/AAAAAAAACH8/Pf3FY0ON8Ic7PXZDKBtbiGbLJU4imuV4wCLcBGAsYHQ/s1600/warnerchannel.png" group-title="Canais Filmes e Series ",WARNER CHANNEL HD
@@ -714,6 +712,8 @@ http://solutionplay.xyz:8080/techruthes/10987658/5935
 http://solutionplay.xyz:8080/techruthes/10987658/6034
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD" tvg-logo="https://1.bp.blogspot.com/-HUc16HfletI/Xk70fFB40uI/AAAAAAAACGg/dBpqILiwhXEA3Fc8oQo36AIbTkKmkJZewCLcBGAsYHQ/s1600/redetv.png" group-title="Canais Abertos",REDE TV FHD
 http://solutionplay.xyz:8080/techruthes/10987658/6331
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais Abertos",SBT HD
+https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PrimePlay Music (EM FASE DE TESTES)" tvg-logo="https://i.imgur.com/bCLtAv7.png" group-title="Canais Variedades",PrimePlay Music (EM FASE DE TESTES)
 http://solutionplay.xyz:8080/techruthes/10987658/13873
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="Canais Star",STAR CHANNEL HD
