@@ -782,8 +782,14 @@ http://solutionplay.xyz:8080/techruthes/10987658/5921
 http://livetv2021.site:8080/9897876765/6576567/119
 #EXTINF:-1 tvg-id="combate.globo.com" tvg-name="COMBATE 2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="CANAIS GLOBOSAT",COMBATE 2
 http://livetv2021.site:8080/9897876765/6576567/120
-#EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Sportv HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/sportv-150x28.png" group-title="CANAIS GLOBOSAT",Sportv HD
+#EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Sportv HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title="CANAIS GLOBOSAT",Sportv HD
 http://livetv2021.site:8080/9897876765/6576567/56
+#EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Sportv 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title="CANAIS GLOBOSAT",Sportv 2 HD
+http://livetv2021.site:8080/9897876765/6576567/6623
+#EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Sportv 3 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title="CANAIS GLOBOSAT",Sportv 3 HD
+http://livetv2021.site:8080/9897876765/6576567/113
+#EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Viva HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/viva.png" group-title="CANAIS GLOBOSAT",Viva HD
+http://livetv2021.site:8080/9897876765/6576567/115
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Canais Religiosos ",TV APARECIDA HD
 http://solutionplay.xyz:8080/techruthes/10987658/6047
 
