@@ -790,6 +790,14 @@ http://livetv2021.site:8080/9897876765/6576567/6623
 http://livetv2021.site:8080/9897876765/6576567/113
 #EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Viva HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/viva.png" group-title="CANAIS GLOBOSAT",Viva HD
 http://livetv2021.site:8080/9897876765/6576567/115
+#EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Multishow HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/Multishow.png" group-title="CANAIS GLOBOSAT",Multishow HD
+http://livetv2021.site:8080/9897876765/6576567/6642
+#EXTINF:-1 tvg-id="combate.globo.com" tvg-name="AXN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/AXN.png" group-title="CANAIS GLOBOSAT",AXN HD
+http://livetv2021.site:8080/9897876765/6576567/6698
+#EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Megapix HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/Megapix.png" group-title="CANAIS GLOBOSAT",Megapix HD
+http://livetv2021.site:8080/9897876765/6576567/8846
+#EXTINF:-1 tvg-id="combate.globo.com" tvg-name="SYFY HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/SYFY.png" group-title="CANAIS GLOBOSAT",SYFY HD
+http://livetv2021.site:8080/9897876765/6576567/8854
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Canais Religiosos ",TV APARECIDA HD
 http://solutionplay.xyz:8080/techruthes/10987658/6047
 
