@@ -648,6 +648,8 @@ https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w572507198.m3u8
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="Musica.com" tvg-name="MTV Brasil HD" tvg-logo="http://3.bp.blogspot.com/-iu3kGF_noJo/UXHe6uT0jhI/AAAAAAAAFSo/3tFegB5o8jg/w1200-h630-p-k-no-nu/mtv.png" group-title="CANAIS DE MUSICA",MTV Brasil HD
 https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8
+#EXTINF:-1 tvg-id="Musica.com" tvg-name="MTV Latino" tvg-logo="http://3.bp.blogspot.com/-iu3kGF_noJo/UXHe6uT0jhI/AAAAAAAAFSo/3tFegB5o8jg/w1200-h630-p-k-no-nu/mtv.png" group-title="CANAIS DE MUSICA",MTV Latino
+http://177.128.115.10:8000/play/a02f
 #EXTINF:-1 tvg-id="Musica.com" tvg-name=MTV 00's HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="CANAIS DE MUSICA",MTV 00's HD
 http://livetv2021.site:8080/9897876765/6576567/6894
 
@@ -761,12 +763,18 @@ http://solutionplay.xyz:8080/techruthes/10987658/5848
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="NEAT GEO WILD 2 HD" tvg-logo="https://store-images.microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a" group-title="Canais Documentários",NEAT GEO WILD 2 HD
 http://livetv2021.site:8080/9897876765/6576567/8849
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="NEAT GEO WILD 3 LATINO HD" tvg-logo="https://store-images.microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a" group-title="Canais Documentários",NEAT GEO WILD 3 LATINO HD
+http://201.111.178.167:8001/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="National Geographic HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/natgeochannel-150x53.png" group-title="Canais Documentários",National Geographic HD
 http://livetv2021.site:8080/9897876765/6576567/8851
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="National Geographic 2 LATINO HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/natgeochannel-150x53.png" group-title="Canais Documentários",National Geographic 2 LATINO HD
+http://45.225.95.170:8001/play/a041
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="ANIMAL PLANET 2 HD" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png" group-title="Canais Documentários",ANIMAL PLANET 2 HD
-http://45.225.93.154:8000/play/a023
+http://livetv2021.site:8080/9897876765/6576567/929
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="Canais Discovery",DISCOVERY CHANNEL HD
 http://solutionplay.xyz:8080/techruthes/10987658/5875
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="ANIMAL PLANET 2 LATINO HD" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png" group-title="Canais Documentários",ANIMAL PLANET 2 LATINO HD
+http://45.225.95.170:8001/play/a057
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://1.bp.blogspot.com/-uh9tauhKWww/Xk70ZxoWtWI/AAAAAAAACFo/MthwzRm9VcY96cemup2ZY_4hclxsCYvygCLcBGAsYHQ/s1600/history2.png" group-title="Canais Documentários",H2 HD
 http://solutionplay.xyz:8080/techruthes/10987658/5939
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png" group-title="Canais Documentários",HISTORY CHANNEL HD
