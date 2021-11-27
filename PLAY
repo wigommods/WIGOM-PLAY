@@ -651,7 +651,7 @@ https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m
 #EXTINF:-1 tvg-id="Musica.com" tvg-name="MTV Latino" tvg-logo="http://3.bp.blogspot.com/-iu3kGF_noJo/UXHe6uT0jhI/AAAAAAAAFSo/3tFegB5o8jg/w1200-h630-p-k-no-nu/mtv.png" group-title="CANAIS DE MUSICA",MTV Latino
 http://177.128.115.10:8000/play/a02f
 #EXTINF:-1 tvg-id="Musica.com" tvg-name=MTV 00's HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="CANAIS DE MUSICA",MTV 00's HD
-http://livetv2021.site:8080/9897876765/6576567/6894
+http://79.114.34.202:8000/play/a02e
 
 #EXTINF:-1 tvg-id="Musica.com" tvg-name="CANAIS Premiere" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes-hd_m.png" group-title="CANAIS Premiere",Premiere Clubes HD
 http://177.91.162.202:8000/play/PFC/index.m3u8
