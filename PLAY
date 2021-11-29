@@ -650,7 +650,7 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8
 #EXTINF:-1 tvg-id="Musica.com" tvg-name="MTV Latino" tvg-logo="http://3.bp.blogspot.com/-iu3kGF_noJo/UXHe6uT0jhI/AAAAAAAAFSo/3tFegB5o8jg/w1200-h630-p-k-no-nu/mtv.png" group-title="CANAIS DE MUSICA",MTV Latino
 http://177.128.115.10:8000/play/a02f
-#EXTINF:-1 tvg-id="Musica.com" tvg-name="MTV-00s: Non-Stop Nostalgia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdzbbHgUjDD1VU3oh5Gg5X_qKAe7Ix4TejHxGYutZ0KUq3TQQGXm94h8lUs6wRJd3jK7k&usqp=CAU" group-title="CANAIS DE MUSICA",MTV-00s: Non-Stop Nostalgia
+#EXTINF:-1 tvg-id="Musica.com" tvg-name="MTV-00s: Non-Stop Nostalgia" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/mtv_00s_wide.png?itok=piTqbQN5" group-title="CANAIS DE MUSICA",MTV-00s: Non-Stop Nostalgia
 http://livetv2021.site:8080/9897876765/6576567/6894
 #EXTINF:-1 tvg-id="Musica.com" tvg-name="CANAIS Premiere" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-clubes-hd_m.png" group-title="CANAIS Premiere",Premiere Clubes HD
 http://177.91.162.202:8000/play/PFC/index.m3u8
@@ -686,7 +686,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV 2 HD" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="CANAIS DE ANIMES",ANIME TV 2 HD
 https://stmv1.srvstm.com/animetv2/animetv2/chunklist_w1671655629.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/sportv-150x28.png" group-title="CANAIS DE ESPORTES",Sportv HD
+#EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title="CANAIS DE ESPORTES",Sportv HD
 http://livetv2021.site:8080/9897876765/6576567/56
 #EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/foxsports-150x83.png" group-title="CANAIS DE ESPORTES",FOX Sports HD
 http://livetv2021.site:8080/9897876765/6576567/98
@@ -694,15 +694,15 @@ http://livetv2021.site:8080/9897876765/6576567/98
 http://livetv2021.site:8080/9897876765/6576567/100
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/bandsports-150x63.png" group-title="CANAIS DE ESPORTES",Band Sports HD
 http://livetv2021.site:8080/9897876765/6576567/102
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://s2.glbimg.com/hEsk304GOUrlcyU8KZnGTsGkQb8=/285x285/https://s2.glbimg.com/8U4qv2GMUGTf2ANtBSOVh-KDZpQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/m/g/T2qATAT4CokCPHtIgWnA/premiere.png" group-title="CANAIS DE ESPORTES",Premiere Clubes HD
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="CANAIS DE ESPORTES",Premiere Clubes HD
 http://livetv2021.site:8080/9897876765/6576567/122
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://s2.glbimg.com/hEsk304GOUrlcyU8KZnGTsGkQb8=/285x285/https://s2.glbimg.com/8U4qv2GMUGTf2ANtBSOVh-KDZpQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/m/g/T2qATAT4CokCPHtIgWnA/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 2 HD
 http://livetv2021.site:8080/9897876765/6576567/124
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://s2.glbimg.com/hEsk304GOUrlcyU8KZnGTsGkQb8=/285x285/https://s2.glbimg.com/8U4qv2GMUGTf2ANtBSOVh-KDZpQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/m/g/T2qATAT4CokCPHtIgWnA/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 3 HD
 http://livetv2021.site:8080/9897876765/6576567/134
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="https://s2.glbimg.com/hEsk304GOUrlcyU8KZnGTsGkQb8=/285x285/https://s2.glbimg.com/8U4qv2GMUGTf2ANtBSOVh-KDZpQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/m/g/T2qATAT4CokCPHtIgWnA/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 4 HD
 http://livetv2021.site:8080/9897876765/6576567/135
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="https://s2.glbimg.com/hEsk304GOUrlcyU8KZnGTsGkQb8=/285x285/https://s2.glbimg.com/8U4qv2GMUGTf2ANtBSOVh-KDZpQ=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/m/g/T2qATAT4CokCPHtIgWnA/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 5 HD
 http://livetv2021.site:8080/9897876765/6576567/136
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/espnbrasil-150x62.png" group-title="CANAIS DE ESPORTES",ESPN Brasil HD
 http://livetv2021.site:8080/9897876765/6576567/166
