@@ -748,6 +748,17 @@ http://solutionplay.xyz:8080/techruthes/10987658/6081
 http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856665
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="https://1.bp.blogspot.com/-bvOXCHs2GF0/XmUiDzgij6I/AAAAAAAACW4/QbZLmqWLRfMICJBeq6cfDBhayu_L2Ao5wCK4BGAYYCw/s400/NATGEO%2BKIDS.png" group-title="Canais infantis",NATGEO KIDS HD
 http://solutionplay.xyz:8080/techruthes/10987658/5973
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/Nickelodeon.png" group-title="Canais infantis",Nickelodeon
+http://45.148.147.13:8099/play/a3024/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/NickJr.png" group-title="Canais infantis",Nick Jr
+http://45.148.147.13:8099/play/a3022/index.m3u8
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/Gloobinho.png" group-title="Canais infantis",Gloobinho
+http://45.148.147.13:8099/play/a2735/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.br" tvg-name="Disney Channel" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/Disney.png" group-title="Canais infantis",Disney Channel
+http://45.148.147.13:8099/play/a3023/index.m3u8
+#EXTINF:-1 tvg-id=",DisneyJunior.br" tvg-name=",Disney Junior" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/DisneyJunior.png" group-title="Canais infantis",,Disney Junior
+http://45.148.147.13:8099/play/a3019/index.m3u8
+
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://1.bp.blogspot.com/-aondLW2i3Nw/Xk70ObLd84I/AAAAAAAACDk/UaL7ElNQW-AaFhG-9gEv2FSWp28Cci5hACLcBGAsYHQ/s1600/cartoonnetwork.png" group-title="Canais infantis",CARTOON NETWORK HD
 http://solutionplay.xyz:8080/techruthes/10987658/5860
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="Canais Noticias",GLOBO NEWS HD
@@ -759,7 +770,7 @@ http://solutionplay.xyz:8080/techruthes/10987658/6076
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://1.bp.blogspot.com/-Nbl1xKywDX4/Xk70PRed9GI/AAAAAAAACDw/0MAoqSfWmZIhGxK8iGzKN3Q0HjHS-bYOgCLcBGAsYHQ/s1600/comedycentral.png" group-title="Canais Variedades",COMEDY CENTRAL HD
 http://solutionplay.xyz:8080/techruthes/10987658/6070
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://1.bp.blogspot.com/-_Sup4b2u1Fw/Xk70XYrRbSI/AAAAAAAACFM/dltfrlbQAWw-oxFUijzgnnskPf-06OVJACLcBGAsYHQ/s1600/gloob.png" group-title="Canais infantis",GLOOB HD
-http://solutionplay.xyz:8080/techruthes/10987658/5935
+http://45.148.147.13:8099/play/a3025/index.m3u8
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://2.bp.blogspot.com/-U4WH_IfwjL0/Xk81J1ihAbI/AAAAAAAACKE/zz1a5trjqeEu6PQbXNbrpKDe2ZXf7qWSgCK4BGAYYCw/s400/TELECINE%2BFUN.png" group-title="Canais Telecine",TELECINE FUN FHD
 http://solutionplay.xyz:8080/techruthes/10987658/6034
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD" tvg-logo="https://1.bp.blogspot.com/-HUc16HfletI/Xk70fFB40uI/AAAAAAAACGg/dBpqILiwhXEA3Fc8oQo36AIbTkKmkJZewCLcBGAsYHQ/s1600/redetv.png" group-title="Canais Abertos",REDE TV FHD
