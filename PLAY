@@ -741,11 +741,9 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-op011tmRIXQ/Xk70oGwc0-I/AAAAAAAACH8/Pf3FY0ON8Ic7PXZDKBtbiGbLJU4imuV4wCLcBGAsYHQ/s1600/warnerchannel.png" group-title="Canais Filmes e Series ",WARNER CHANNEL HD
 http://solutionplay.xyz:8080/techruthes/10987658/6486
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://1.bp.blogspot.com/-KYJNJ8ofZhQ/Xk70bsae15I/AAAAAAAACF4/bu4pFKpyK3I802HKsQJEP4f8S7_KLRUXgCLcBGAsYHQ/s1600/megapix.png" group-title="Canais Filmes e Series ",MEGAPIX HD
-http://solutionplay.xyz:8080/techruthes/10987658/6457
+http://solutionplay.xyz:8080/techruthes/10987658/27195
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://1.bp.blogspot.com/-KVAJJtXKXUE/XmQOw0jLTMI/AAAAAAAACRo/GORUzAEatRU7S0MPBE7yXcIRsXTYmwN0QCK4BGAYYCw/s400/A%2526E.png" group-title="Canais Filmes e Series ",A&E HD
-http://solutionplay.xyz:8080/techruthes/10987658/6427
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://1.bp.blogspot.com/-BXGlMOVHnMs/Xk8rh1-AnnI/AAAAAAAACIk/f8OG9cGj4usH-PydVM-T9P7c1t5PFWjdQCK4BGAYYCw/s400/HGTV.png" group-title="Canais Variedades",HGTV HD
-http://solutionplay.xyz:8080/techruthes/10987658/6081
+http://solutionplay.xyz:8080/techruthes/10987658/27103
 #EXTINF:-1 tvg-id="eonline.com/br" tvg-name="E! HD" tvg-logo="https://jorgesalvador.files.wordpress.com/2012/04/e21hdlogo.png" group-title="Canais Variedades",E! HD
 http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856665
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="https://1.bp.blogspot.com/-bvOXCHs2GF0/XmUiDzgij6I/AAAAAAAACW4/QbZLmqWLRfMICJBeq6cfDBhayu_L2Ao5wCK4BGAYYCw/s400/NATGEO%2BKIDS.png" group-title="Canais infantis",NATGEO KIDS HD
@@ -770,7 +768,7 @@ http://solutionplay.xyz:8080/techruthes/10987658/6104
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="Canais Variedades",GNT HD
 http://solutionplay.xyz:8080/techruthes/10987658/6076
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://1.bp.blogspot.com/-Nbl1xKywDX4/Xk70PRed9GI/AAAAAAAACDw/0MAoqSfWmZIhGxK8iGzKN3Q0HjHS-bYOgCLcBGAsYHQ/s1600/comedycentral.png" group-title="Canais Variedades",COMEDY CENTRAL HD
-http://solutionplay.xyz:8080/techruthes/10987658/6070
+http://solutionplay.xyz:8080/techruthes/10987658/27119
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://1.bp.blogspot.com/-_Sup4b2u1Fw/Xk70XYrRbSI/AAAAAAAACFM/dltfrlbQAWw-oxFUijzgnnskPf-06OVJACLcBGAsYHQ/s1600/gloob.png" group-title="Canais infantis",GLOOB HD
 http://45.148.147.13:8099/play/a3025/index.m3u8
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://2.bp.blogspot.com/-U4WH_IfwjL0/Xk81J1ihAbI/AAAAAAAACKE/zz1a5trjqeEu6PQbXNbrpKDe2ZXf7qWSgCK4BGAYYCw/s400/TELECINE%2BFUN.png" group-title="Canais Telecine",TELECINE FUN FHD
