@@ -776,17 +776,15 @@ http://45.148.147.13:8099/play/a3025/index.m3u8
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://2.bp.blogspot.com/-U4WH_IfwjL0/Xk81J1ihAbI/AAAAAAAACKE/zz1a5trjqeEu6PQbXNbrpKDe2ZXf7qWSgCK4BGAYYCw/s400/TELECINE%2BFUN.png" group-title="Canais Telecine",TELECINE FUN FHD
 http://solutionplay.xyz:8080/techruthes/10987658/6034
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD" tvg-logo="https://1.bp.blogspot.com/-HUc16HfletI/Xk70fFB40uI/AAAAAAAACGg/dBpqILiwhXEA3Fc8oQo36AIbTkKmkJZewCLcBGAsYHQ/s1600/redetv.png" group-title="Canais Abertos",REDE TV FHD
-http://solutionplay.xyz:8080/techruthes/10987658/6331
+http://solutionplay.xyz:8080/techruthes/10987658/27367
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV 2 FHD" tvg-logo="https://1.bp.blogspot.com/-HUc16HfletI/Xk70fFB40uI/AAAAAAAACGg/dBpqILiwhXEA3Fc8oQo36AIbTkKmkJZewCLcBGAsYHQ/s1600/redetv.png" group-title="Canais Abertos",REDE TV 2 FHD
 https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais Abertos",SBT HD
 https://d1wwtskvr1r98k.cloudfront.net/a1392a948c1941a8ae3ca05825d73785/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PrimePlay Music (EM FASE DE TESTES)" tvg-logo="https://i.imgur.com/bCLtAv7.png" group-title="Canais Variedades",PrimePlay Music (EM FASE DE TESTES)
-http://solutionplay.xyz:8080/techruthes/10987658/13873
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="Canais Star",STAR CHANNEL HD
 http://solutionplay.xyz:8080/techruthes/10987658/6439
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="https://1.bp.blogspot.com/-7mzrwenGEL0/XmQY1Lhuh0I/AAAAAAAACSM/KO7bzqORN4MkRz4IYz5nmmvsvpMa7AWEQCK4BGAYYCw/s400/SONY.png" group-title="Canais Filmes e Series ",SONY HD
-http://solutionplay.xyz:8080/techruthes/10987658/6463
+http://solutionplay.xyz:8080/techruthes/10987658/27155
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://1.bp.blogspot.com/-YBl9_nxYYEg/Xk70g8w-e4I/AAAAAAAACGw/Dka4nvxveQomHzF23ECe1TTjbLrHmV7HQCLcBGAsYHQ/s1600/space.png" group-title="Canais Filmes e Series ",SPACE HD
 http://solutionplay.xyz:8080/techruthes/10987658/6466
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://1.bp.blogspot.com/-n17CiRTaCyE/Xk70Nj_rjpI/AAAAAAAACDc/TsDf_fpQBlosivwrkLjoygIHYogbaV70ACLcBGAsYHQ/s1600/boomerang.png" group-title="Canais infantis",BOOMERANG HD
@@ -794,29 +792,23 @@ http://solutionplay.xyz:8080/techruthes/10987658/5856
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://1.bp.blogspot.com/-NshftfFiUg0/Xk70chBGcxI/AAAAAAAACGA/EIQEzc-XyAkryBvxiUq8OHG2yI1Qv9RfwCLcBGAsYHQ/s1600/nick.png" group-title="Canais infantis",NICKELODEON HD
 http://solutionplay.xyz:8080/techruthes/10987658/5985
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png" group-title="Canais Documentários",ANIMAL PLANET HD
-http://solutionplay.xyz:8080/techruthes/10987658/5848
+http://solutionplay.xyz:8080/techruthes/10987658/27681
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="NEAT GEO WILD HD" tvg-logo="https://store-images.microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a" group-title="Canais Documentários",NEAT GEO WILD HD
 http://livetv2021.site:8080/9897876765/6576567/8848
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="NEAT GEO WILD 2 HD" tvg-logo="https://store-images.microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a" group-title="Canais Documentários",NEAT GEO WILD 2 HD
 http://livetv2021.site:8080/9897876765/6576567/8849
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="NEAT GEO WILD 3 LATINO HD" tvg-logo="https://store-images.microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a" group-title="Canais Documentários",NEAT GEO WILD 3 LATINO HD
-http://201.111.178.167:8001/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="National Geographic HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/natgeochannel-150x53.png" group-title="Canais Documentários",National Geographic HD
 http://livetv2021.site:8080/9897876765/6576567/8851
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="National Geographic 2 LATINO HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/natgeochannel-150x53.png" group-title="Canais Documentários",National Geographic 2 LATINO HD
-http://45.225.95.170:8001/play/a041
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="National Geographic 2 HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/natgeochannel-150x53.png" group-title="Canais Documentários",National Geographic 2 HD
+http://solutionplay.xyz:8080/techruthes/10987658/27706
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="ANIMAL PLANET 2 HD" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png" group-title="Canais Documentários",ANIMAL PLANET 2 HD
 http://livetv2021.site:8080/9897876765/6576567/929
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="Canais Discovery",DISCOVERY CHANNEL HD
-http://solutionplay.xyz:8080/techruthes/10987658/5875
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="ANIMAL PLANET 2 LATINO HD" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png" group-title="Canais Documentários",ANIMAL PLANET 2 LATINO HD
-http://45.225.95.170:8001/play/a057
+http://solutionplay.xyz:8080/techruthes/10987658/27712
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://1.bp.blogspot.com/-uh9tauhKWww/Xk70ZxoWtWI/AAAAAAAACFo/MthwzRm9VcY96cemup2ZY_4hclxsCYvygCLcBGAsYHQ/s1600/history2.png" group-title="Canais Documentários",H2 HD
 http://solutionplay.xyz:8080/techruthes/10987658/5939
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png" group-title="Canais Documentários",HISTORY CHANNEL HD
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13266
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD [Opção 2]" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png" group-title="Canais Documentários",HISTORY CHANNEL HD [Opção 2]
-http://solutionplay.xyz:8080/techruthes/10987658/5966
+http://solutionplay.xyz:8080/techruthes/10987658/27688
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://2.bp.blogspot.com/-YLvYyrLM0Tc/XmQENo4hcuI/AAAAAAAACQs/jKWMWXYMuvIhu7iXvLJCm-9BEONKMcqxwCK4BGAYYCw/s400/MULTICHO.png" group-title="Canais Variedades",MULTISHOW HD
 http://vipeiptv.com:25461/fernandocgr2021/2021cgrfernando/856709
 #EXTINF:-1 tvg-id="" tvg-name="EVANGELIZAR HD" tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="Canais Religiosos ",EVANGELIZAR HD
@@ -839,7 +831,7 @@ http://livetv2021.site:8080/9897876765/6576567/6642
 #EXTINF:-1 tvg-id="combate.globo.com" tvg-name="AXN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/AXN.png" group-title="CANAIS GLOBOSAT",AXN HD
 http://livetv2021.site:8080/9897876765/6576567/6698
 #EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Megapix HD" tvg-logo="https://s2.glbimg.com/8p-hj8htdJwJoytD9Me_rFnkt4I=/285x285/https://s2.glbimg.com/6RaiUa-6wOgllskljVnbO5vNeWk=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/A/J/Rb8aiiRxu8t7tD1WAJBw/megapix.png" group-title="CANAIS GLOBOSAT",Megapix HD
-http://livetv2021.site:8080/9897876765/6576567/8846
+http://solutionplay.xyz:8080/techruthes/10987658/27195
 #EXTINF:-1 tvg-id="combate.globo.com" tvg-name="SYFY HD" tvg-logo="https://s2.glbimg.com/B6wFFcIAuWmvyTN8acLEuDsiA3k=/285x285/https://s2.glbimg.com/aeWKmoZ7If9bHHe-jNTgA5PeD2A=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/Z/k/0mMxFGTgiPvkNQQLX0VQ/syfy.png" group-title="CANAIS GLOBOSAT",SYFY HD
 http://livetv2021.site:8080/9897876765/6576567/8854
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Canais Religiosos ",TV APARECIDA HD
