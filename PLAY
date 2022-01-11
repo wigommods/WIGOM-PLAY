@@ -749,16 +749,14 @@ http://187.94.148.4:8000/play/a02h/index.m3u8
 http://livetv2021.site:8080/9897876765/6576567/100
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/bandsports-150x63.png" group-title="CANAIS DE ESPORTES",Band Sports HD
 http://livetv2021.site:8080/9897876765/6576567/102
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="CANAIS DE ESPORTES",Premiere Clubes HD
-http://livetv2021.site:8080/9897876765/6576567/122
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 2 HD
-http://livetv2021.site:8080/9897876765/6576567/124
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 2 HD
+http://201.35.250.178:8001/play/a00a
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 3 HD
-http://livetv2021.site:8080/9897876765/6576567/134
+hthttp://201.35.250.178:8001/play/a00e
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 4 HD
-http://livetv2021.site:8080/9897876765/6576567/135
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 5 HD
-http://livetv2021.site:8080/9897876765/6576567/136
+http://201.35.250.178:8001/play/a005
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="CANAIS DE ESPORTES",Premiere 5 HD
+http://201.35.250.178:8001/play/a009
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="https://aovivo.pro/wp-content/uploads/2019/07/espnbrasil-150x62.png" group-title="CANAIS DE ESPORTES",ESPN Brasil HD
 http://livetv2021.site:8080/9897876765/6576567/166
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tntsports.png" group-title="CANAIS DE ESPORTES",TNT Sports 2
@@ -870,9 +868,9 @@ http://livetv2021.site:8080/9897876765/6576567/119
 #EXTINF:-1 tvg-id="combate.globo.com" tvg-name="COMBATE 2" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="CANAIS GLOBOSAT",COMBATE 2
 http://livetv2021.site:8080/9897876765/6576567/120
 #EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Sportv HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title="CANAIS GLOBOSAT",Sportv HD
-http://livetv2021.site:8080/9897876765/6576567/56
+http://201.35.250.178:8001/play/a00d
 #EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Sportv 2 HD" tvg-logo="https://s2.glbimg.com/GaiZu0xcQMEk4iT8zTb70pz8tmc=/285x285/https://s2.glbimg.com/Q9zo70dCIm-0OAvY5VgfnRE0RDY=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/1/A/nurEwnSyO7waw4IXLugg/logo-de-transmissao-sportv2-a1.png" group-title="CANAIS GLOBOSAT",Sportv 2 HD
-http://livetv2021.site:8080/9897876765/6576567/6623
+http://201.35.250.178:8001/play/a00c
 #EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Sportv 3 HD" tvg-logo="https://s2.glbimg.com/9nPVfXgBPUm1GFfQEM0SPxk43Ro=/285x285/https://s2.glbimg.com/srvCTnIbpAJzJ0o3HSoCmdE_EPM=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/9/B/JnrwKrR3uUE3xADMB6NA/logo-de-transmissao-sportv3-a1.png" group-title="CANAIS GLOBOSAT",Sportv 3 HD
 http://livetv2021.site:8080/9897876765/6576567/113
 #EXTINF:-1 tvg-id="combate.globo.com" tvg-name="Viva HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/viva.png" group-title="CANAIS GLOBOSAT",Viva HD
@@ -889,21 +887,7 @@ http://livetv2021.site:8080/9897876765/6576567/8854
 http://solutionplay.xyz:8080/techruthes/10987658/6047
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT
-http://livetv2021.site:8080/9897876765/6576567/168
-#EXTINF:-1 tvg-id="" tvg-name="TNT LATINO" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT LATINO
-http://45.176.70.89:8000/play/a008
-#EXTINF:-1 tvg-id="" tvg-name="TNT LATINO MHL" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT LATINO MHL
-https://m3u9.ml/b/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=UjJLPEosBMklhTGDeOwOTA&3U1G7qaTxrPbalZnEx=1637563738
-#EXTINF:-1 tvg-id="" tvg-name="TNT LATINO 2" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT LATINO 2
-http://201.111.178.167:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT LATINO 3" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT LATINO 3
-http://201.111.178.167:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT LATINO 4" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT LATINO 4
-http://200.24.132.99:8000/play/a01n
-#EXTINF:-1 tvg-id="" tvg-name="TNT LATINO 5" tvg-logo="http://distv.net/icons/tnt.png" group-title="CANAIS TNT",TNT LATINO 5
-http://177.128.115.10:8000/play/a02n
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="CANAIS TNT",TNT SERIES
-http://livetv2021.site:8080/9897876765/6576567/6667
+http://187.94.148.4:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="CANAIS ESPN",ESPN
 http://livetv2021.site:8080/9897876765/6576567/166
@@ -912,9 +896,9 @@ http://livetv2021.site:8080/9897876765/6576567/6618
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="CANAIS ESPN",ESPN EXTRA
 http://livetv2021.site:8080/9897876765/6576567/6626
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://distv.net/icons/foxsports.png" group-title="CANAIS FOXSPORTS",FOX SPORTS
-http://livetv2021.site:8080/9897876765/6576567/98
+http://201.35.250.178:8001/play/a00l
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://distv.net/icons/foxsports2.png" group-title="CANAIS FOXSPORTS",FOX SPORTS 2
-http://livetv2021.site:8080/9897876765/6576567/100
+http://201.35.250.178:8001/play/a00m
 
 #EXTINF:0 channel-id="guia-de-canais" tvg-logo="https://imgur.com/JSs5V3b.png" group-title="PLUTO TV BRASIL", Guia de Canais
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848732-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=051f3c1e-eeef-459d-b6b9-8b3a25af4b87&userId=&serverSideAds=true
