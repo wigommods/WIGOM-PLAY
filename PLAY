@@ -2,10 +2,11 @@
 #EXTINF:-1 tvg-logo="http://www.glempreendimentosmg.com.br/sig/img/icones/atualizar.png" group-title="Info",WIGOM MOD'S PLAY 03/06/22
 https://www.youtube.com/watch?v=FyoTQCmpgzs
 
-#EXTM3U
 
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="Canais On Demand,Jetsons Tv
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w830031890.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vizer.tv/content/series/posterPt/342/4803.webp" group-title="Stranger Things 4 | Volume 1 |DUBLADO",Capítulo um: O Clube Hellfire
 https://d.terabox.com/file/1f326a294721f46695d2e7424a945375?fid=4401665049879-250528-627532148781795&dstime=1654391591&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-k7nFqQ6oORWhocvofE46ATsArxo%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=145032838437278815&
