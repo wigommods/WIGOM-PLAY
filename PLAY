@@ -753,6 +753,8 @@ https://sp6.teleuptv.net/550a56d1-6480-41c7-9bad-371352b6b2fc/tracks-v1a1/mono.m
 https://cdn1-4p.teleuptv.net/b2b30a4d-868c-4b8e-9bdf-a6947cf2393b/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="AniTV.com" tvg-name="AniTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.webp" group-title="CANAIS DE ANIMES",AniTV - Anime na veia!
+https://tv01.livemustv.com.br/livemustv1358/livemustv1358/chunklist_w192685444.m3u8
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="CANAIS DE ANIMES",ANIME TV [opção 1]
 https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="ANIME TV" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="CANAIS DE ANIMES",ANIME TV [opção 2]
