@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="http://www.glempreendimentosmg.com.br/sig/img/icones/atualizar.png" group-title="Info",WIGOM MOD'S PLAY 03/06/22
 https://www.youtube.com/watch?v=FyoTQCmpgzs
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="Canais On Demand,Jetsons Tv
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w830031890.m3u8
+
 #EXTINF:-1 tvg-logo="https://vizer.tv/content/series/posterPt/342/4803.webp" group-title="Stranger Things 4 | Volume 1 |DUBLADO",Capítulo um: O Clube Hellfire
 https://d.terabox.com/file/1f326a294721f46695d2e7424a945375?fid=4401665049879-250528-627532148781795&dstime=1654391591&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-k7nFqQ6oORWhocvofE46ATsArxo%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=145032838437278815&
 #EXTINF:-1 tvg-logo="https://vizer.tv/content/series/posterPt/342/4803.webp" group-title="Stranger Things 4 | Volume 1 |DUBLADO",Capítulo dois: A maldição de Vecna
@@ -757,8 +760,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://stmv1.srvstm.com/animetv2/animetv2/chunklist_w1671655629.m3u8
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="Loading" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="CANAIS DE ANIMES",Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="Excelsior" tvg-logo="https://6d1f7aae66.cbaul-cdnwnd.com/b9f736e55a8289f4686af48638c3811a/200000212-6813868139/450/20220602_083521.png?ph=6d1f7aae66" group-title="CANAIS DE ANIMES",Excelsior
-https://cdnhd.iblups.com/hls/I3yRA4UmSs.m3u8
+#EXTINF:-1 tvg-logo="https://www.anitube.site/wp-content/uploads/Magi-The-Labyrinth-of-Magic.jpg" group-title="Magi: The Labyrinth of Magic (2012)",Magi: The Labyrinth of Magic Episódio 01 – Aladdin e Alibabá
+https://pitou.goyabu.com/magi-the-labyrinth-of-magic-1-temporada/01.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title="CANAIS DE ESPORTES",Sportv HD
 http://187.94.148.4:8000/play/a02d/index.m3u8
