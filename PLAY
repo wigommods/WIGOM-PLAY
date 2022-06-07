@@ -2,9 +2,7 @@
 #EXTINF:-1 tvg-logo="http://www.glempreendimentosmg.com.br/sig/img/icones/atualizar.png" group-title="Info",WIGOM MOD'S PLAY 03/06/22
 https://www.youtube.com/watch?v=FyoTQCmpgzs
 
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="Canais On Demand,Jetsons Tv
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="CANAIS ON DEMAND",Jetsons Tv
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w830031890.m3u8
 
 
