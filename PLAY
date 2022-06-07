@@ -757,6 +757,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://stmv1.srvstm.com/animetv2/animetv2/chunklist_w1671655629.m3u8
 #EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="Loading" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="CANAIS DE ANIMES",Loading
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="AnimeTv.com" tvg-name="Excelsior" tvg-logo="https://6d1f7aae66.cbaul-cdnwnd.com/b9f736e55a8289f4686af48638c3811a/200000212-6813868139/450/20220602_083521.png?ph=6d1f7aae66" group-title="CANAIS DE ANIMES",Excelsior
+https://cdnhd.iblups.com/hls/I3yRA4UmSs.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title="CANAIS DE ESPORTES",Sportv HD
 http://187.94.148.4:8000/play/a02d/index.m3u8
